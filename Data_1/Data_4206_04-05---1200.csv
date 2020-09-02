@@ -1,0 +1,158 @@
+Province,City,lat,lng,confirmed,deaths,recovered
+Sindh,Karachi,24.9056,67.0822,4427,101,504
+Sindh,Hyderabad,25.396891,68.377183,301,3,169
+Sindh,Sukkur,27.705164,68.857383,434,4,288
+Sindh,Larkana,27.558985,68.212035,138,1,11
+Sindh,Mipur Khas,25.5251,69.0159,11,0,3
+Sindh,Nawabshah,26.248334,68.409554,0,0,0
+Sindh,Shahdad Kot,27.847263,67.906789,4,1,0
+Sindh,Matiari,25.59709,68.4467,4,0,1
+Sindh,Thatta,24.747449,67.923528,7,0,3
+Sindh,Badin,24.655995,68.836997,15,0,3
+Sindh,Tando Allahyar,25.462626,68.719233,8,0,6
+Sindh,Sanghar,26.046558,68.9481,31,0,3
+Sindh,Ghotki,28.00604,69.316077,132,1,2
+Sindh,Dadu,26.730334,67.776896,22,0,11
+Sindh,Shikarpur,27.957057,68.637886,31,0,0
+Sindh,Khairpur,27.529483,68.761698,205,0,115
+Sindh,Jamshoro,25.436078,68.280172,15,0,12
+Sindh,Umarkot,25.36157,69.736241,5,0,1
+Sindh,Jacobabad,28.281873,68.437613,22,0,1
+Sindh,Naushahro Firoz,26.840104,68.122651,24,0,14
+Sindh,Tando Muhammad Khan,25.123007,68.535773,38,1,17
+Sindh,Sujawal,24.605449,68.081837,10,0,2
+Sindh,Shaheed Benazirabad,26.363619,68.337886,96,1,15
+Sindh,Kandhkot,28.243963,69.182354,0,0,0
+Sindh,Others,0,1,1485,17,374
+Sindh,Total,0,0,7465,130,1555
+Punjab,Lahore,31.549722,74.343611,2476,25,206
+Punjab,Riwind (Lahore),0,2,0,0,0
+Punjab,Faisalabad,31.416667,73.083333,178,1,0
+Punjab,Rawalpindi,33.597331,73.047904,419,12,63
+Punjab,Multan,30.196789,71.478241,98,6,0
+Punjab,Gujranwala,32.155667,74.187052,211,0,0
+Punjab,Bahawalpur,29.4,71.683333,21,1,0
+Punjab,Sargodha,32.083611,72.671111,87,0,0
+Punjab,Sialkot,32.499101,74.52502,294,0,0
+Punjab,Sheikhupura,31.713056,73.978333,25,0,0
+Punjab,Rahimyar Khan,28.419482,70.302386,72,2,0
+Punjab,Jhang Sadr,31.269811,72.316867,0,0,0
+Punjab,Gujrat,32.574204,74.075423,241,2,0
+Punjab,Kasur,31.115556,74.446667,61,0,0
+Punjab,Dera Ghazi Khan,30.056142,70.634766,242,0,175
+Punjab,Masa Wala,30.683333,73.066667,0,0,0
+Punjab,Okara,30.808056,73.445833,19,0,0
+Punjab,Chiniot,31.72,72.978889,13,0,0
+Punjab,Sadiqabad,28.30623,70.130646,0,0,0
+Punjab,Kundian,32.457747,71.478918,0,0,0
+Punjab,Lodhran,29.540507,71.63357,18,0,0
+Punjab,Muzaffargarh,30.072576,71.193788,24,0,0
+Punjab,Nankana Sahib,31.4475,73.697222,18,0,0
+Punjab,Hafizabad,32.067857,73.685449,38,0,0
+Punjab,Jhang City,31.305684,72.325941,44,0,0
+Punjab,Sahiwal,30.666667,73.1,14,0,0
+Punjab,Pakpattan,30.341044,73.386642,22,0,0
+Punjab,Chakwal,32.933376,72.858531,5,0,0
+Punjab,Khushab,32.296667,72.3525,15,0,0
+Punjab,Bahawalnagar,29.998659,73.253604,12,0,0
+Punjab,Khanewal,30.301731,71.932124,7,0,0
+Punjab,Narowal,32.1,74.883333,20,0,0
+Punjab,Jhelum,32.934484,73.731018,61,1,0
+Punjab,Mandi Bahauddin,32.587037,73.491231,39,0,0
+Punjab,Bhakkar,31.625247,71.06574,21,0,0
+Punjab,Toba Tek Singh,30.974326,72.482694,8,1,0
+Punjab,Mianwali,32.574095,71.526386,21,0,0
+Punjab,Rajanpur,29.103513,70.325038,0,0,0
+Punjab,Layyah,30.961279,70.939043,3,0,0
+Punjab,Vehari,30.045374,72.353277,51,0,0
+Punjab,Attock City,33.76671,72.359766,35,0,0
+Punjab,Others,0,1,2591,70,1762
+Punjab,Total,0,0,7524,121,2206
+Khyber Pakhtunkhwa,Serai,34.73933,72.335655,0,0,0
+Khyber Pakhtunkhwa,Peshawar,34.008,71.578488,1197,111,67
+Khyber Pakhtunkhwa,Abottabad,34.1463,73.211684,73,5,46
+Khyber Pakhtunkhwa,Bannu,32.985414,70.602701,48,1,20
+Khyber Pakhtunkhwa,Kohat,33.581958,71.449291,65,4,48
+Khyber Pakhtunkhwa,Bardar,34.163737,72.011571,0,0,0
+Khyber Pakhtunkhwa,Dera Ismail Khan,31.832691,70.902398,88,2,66
+Khyber Pakhtunkhwa,Mehra,34.312817,73.220525,0,0,0
+Khyber Pakhtunkhwa,Haripur,33.999967,72.934093,20,0,9
+Khyber Pakhtunkhwa,Batgram,34.679637,73.026299,24,2,0
+Khyber Pakhtunkhwa,Mansehra,34.330232,73.196788,83,3,55
+Khyber Pakhtunkhwa,Karak,33.116334,71.093536,23,0,10
+Khyber Pakhtunkhwa,Mardan,34.197943,72.04965,183,9,64
+Khyber Pakhtunkhwa,Nowshera,34.015828,71.981232,71,6,25
+Khyber Pakhtunkhwa,Charsadda,34.148221,71.740604,55,2,26
+Khyber Pakhtunkhwa,Lakki Marwat,32.607953,70.911416,6,0,6
+Khyber Pakhtunkhwa,Tank,32.217071,70.383154,1,0,1
+Khyber Pakhtunkhwa,Chitral,35.851802,71.786358,35,0,5
+Khyber Pakhtunkhwa,Malakand,34.565609,71.930432,142,3,12
+Khyber Pakhtunkhwa,Saidu Sharif,34.746548,72.355675,0,0,0
+Khyber Pakhtunkhwa,Hangu,33.53198,71.059499,22,0,14
+Khyber Pakhtunkhwa,Timargara,34.826595,71.844226,0,0,0
+Khyber Pakhtunkhwa,Alpirai,34.920577,72.632556,0,0,0
+Khyber Pakhtunkhwa,Daggar,34.511059,72.484375,0,0,0
+Khyber Pakhtunkhwa,Dir Lower,34.840978,71.892317,87,4,24
+Khyber Pakhtunkhwa,Dir Upper,35.207398,71.876801,91,1,60
+Khyber Pakhtunkhwa,Swabi,34.120181,72.46982,30,2,16
+Khyber Pakhtunkhwa,Swat,35.353485,72.588464,197,14,56
+Khyber Pakhtunkhwa,S. Waziristan,32.373076,69.679444,2,0,2
+Khyber Pakhtunkhwa,N. Waziristan,32.944054,70.04088,4,0,4
+Khyber Pakhtunkhwa,Mohmand,34.482997,71.329527,6,1,3
+Khyber Pakhtunkhwa,Buner,34.498751,72.531156,107,2,65
+Khyber Pakhtunkhwa,Bajour,34.755674,71.540936,35,3,19
+Khyber Pakhtunkhwa,Kurram,33.752626,70.279754,36,3,13
+Khyber Pakhtunkhwa,Orakzai,33.705473,70.949132,9,0,6
+Khyber Pakhtunkhwa,Shangla,34.853348,72.743664,53,2,22
+Khyber Pakhtunkhwa,Torghar,34.569411,72.857441,2,0,0
+Khyber Pakhtunkhwa,Khyber,34.110615,71.181879,25,0,11
+Khyber Pakhtunkhwa,Dasu,35.291687,73.290602,0,0,0
+Khyber Pakhtunkhwa,Others,0,1,309,0,36
+Khyber Pakhtunkhwa,Total,0,0,3129,180,811
+Islamabad,Islamabad,33.69,73.0551,415,4,55
+Gilgit-Baltistan,Gilgit,35.920007,74.313656,79,1,0
+Gilgit-Baltistan,Sakardu,35.290278,75.644444,1,0,0
+Gilgit-Baltistan,Chilas,35.412867,74.104068,0,0,0
+Gilgit-Baltistan,Gakuch,36.176826,73.763834,0,0,0
+Gilgit-Baltistan,Eidgah,35.347115,74.856317,0,0,0
+Gilgit-Baltistan,Shigar,35.476716,75.705338,1,0,0
+Gilgit-Baltistan,Others,0,1,283,2,260
+Gilgit-Baltistan,Total,0,0,364,3,260
+Federally Administered Tribal Areas,Parachinar,33.895672,70.098875,0,0,0
+Balochistan,Quetta,30.184138,67.00141,677,0,0
+Balochistan,Turbat,26.001224,63.048491,0,0,0
+Balochistan,Chaman,30.917689,66.45259,5,0,0
+Balochistan,Zhob,31.340817,69.449304,2,0,0
+Balochistan,Gwadar,25.12163,62.325411,0,0,0
+Balochistan,Dera Allahyar,28.373529,68.350778,22,0,0
+Balochistan,Ziarat,30.382444,67.725624,3,0,0
+Balochistan,Dera Murad Jamali,28.546568,68.223081,0,0,0
+Balochistan,Uthal,25.807222,66.621944,0,0,0
+Balochistan,Barkhan,29.897727,69.525584,0,0,0
+Balochistan,Loralai,30.370512,68.597949,9,0,0
+Balochistan,Dera Bugti,29.036188,69.158493,0,0,0
+Balochistan,Kohlu,29.896505,69.253235,0,0,0
+Balochistan,Khuzdar,27.738385,66.643365,1,0,0
+Balochistan,Awaran,26.456768,65.231436,0,0,0
+Balochistan,Qila Abdullah,30.728035,66.661174,2,0,0
+Balochistan,Pishin,30.581762,66.994061,43,0,0
+Balochistan,Qila Saifullah,30.700766,68.359843,0,0,0
+Balochistan,Panjgir,26.971861,64.094594,0,0,0
+Balochistan,Mastung,29.799656,66.845527,17,0,0
+Balochistan,Kalat,29.026629,66.593607,0,0,0
+Balochistan,Gandava,28.613207,67.485643,0,0,0
+Balochistan,Kharan,28.584585,65.415007,2,0,0
+Balochistan,Misa Khel Bazar,30.859443,69.82208,0,0,0
+Balochistan,Sibi,29.542989,67.87726,7,0,0
+Balochistan,Dalbandin,28.888456,64.406156,0,0,0
+Balochistan,Taftan,28.957068,61.587622,12,0,0
+Balochistan,Others,0,1,416,19,183
+Balochistan,Total,0,0,1218,19,183
+Azad Kashmir,Bagh,33.981106,73.776084,0,0,0
+Azad Kashmir,Kotli,33.518362,73.902203,0,0,0
+Azad Kashmir,New Mirpur,33.147815,73.751867,0,0,0
+Azad Kashmir,Rawala Kot,33.857816,73.760426,0,0,0
+Azad Kashmir,Athmuqam,34.571733,73.897236,0,0,0
+Azad Kashmir,Others,0,1,71,0,44
+Azad Kashmir,Total,0,0,71,0,44
+Pakistan,Total,0,0,20186,457,5114
