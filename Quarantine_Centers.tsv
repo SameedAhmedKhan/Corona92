@@ -1,0 +1,697 @@
+	NO. OF QUARANTINE CENTRE W.R.T CORONA VIRUS	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	CompleteAddress	Lat	Long
+0	District	Name of Quarantine Centre	Hotel Rooms	No. of Rooms	Capacity to Accommodate Persons	Facilities Available	Remarks		Name of Quarantine Centre District	0	0
+1	Bahawalpur	The Islamia University Bahawalpur		866	1436	Electricity, Water Supply, Wash rooms & Medical facility	Shared Wash Rooms		The Islamia University Bahawalpur Bahawalpur	29.3982985	71.6910248
+2	Bahawalpur	79 Private Hotel	848		848	Attach Bath			79 Private Hotel Bahawalpur	0	0
+3	Bahawalnagar	Girls Hostel Islamia University new campus, Bahawalnagar		55	128	All facilities available			Girls Hostel Islamia University new campus, Bahawalnagar Bahawalnagar	30.732688	72.6494609
+4	Bahawalnagar	Rice Research Center, Bahawalnagar		13	26	All facilities available			Rice Research Center, Bahawalnagar Bahawalnagar	30.0164557	73.267316
+5	Bahawalnagar	Daanish School (Boys & Girls), Chishtian		40	256	All facilities available			Daanish School (Boys & Girls), Chishtian Bahawalnagar	29.8498374	72.9424344
+6	Bahawalnagar	Govt. Degree college Boys, Dahranwala		21	178	All facilities available			Govt. Degree college Boys, Dahranwala Bahawalnagar	29.6039744	72.5706378
+7	Bahawalnagar	Govt. Girls Degree College Minchinabad Hostels,		27	45	All facilities available			Govt. Girls Degree College Minchinabad Hostels, Bahawalnagar	30.1576831	73.562382
+8	Bahawalnagar	Govt. Girls Degree College, Fortabbas		13	125	All facilities available			Govt. Girls Degree College, Fortabbas Bahawalnagar	29.1822176	72.8581229
+9	Bahawalnagar	Govt. Degree College for Girls Latifabad, Haroonabad		26	230	All facilities available			Govt. Degree College for Girls Latifabad, Haroonabad Bahawalnagar	29.6266468	73.129066
+10	Bahawalnagar	19 Private Hotel	242		243	All facilities available			19 Private Hotel Bahawalnagar	0	0
+11	R. Y. Khan	37 Private Hotel	620		620	Attach Bath			37 Private Hotel R. Y. Khan	0	0
+12	R. Y. Khan	Islamia University of Bahawalpur Sub Campus RYK. Boys Hostel		54	78	All Essential Facilities are available	52 Romms, 2 Halls		Islamia University of Bahawalpur Sub Campus RYK. Boys Hostel R. Y. Khan	28.9143454	70.4586379
+13	R. Y. Khan	Islamia University of Bahawalpur Sub Campus RYK. Girls Hostel		54	72	All Essential Facilities are available	52 Romms, 2 Halls		Islamia University of Bahawalpur Sub Campus RYK. Girls Hostel R. Y. Khan	29.3773342	71.6199705
+14	R. Y. Khan	Khawaja Fareed University of Engineering & Information Technology		23	200	All Essential Facilities are available	23 Halls		Khawaja Fareed University of Engineering & Information Technology R. Y. Khan	28.380853	70.3722874
+15	R. Y. Khan	Rahim Yar Khan Hospital		24	24	All Essential Facilities are available	Single Capacity		Rahim Yar Khan Hospital R. Y. Khan	28.416667	70.5
+16	R. Y. Khan	Cardiac Block THQ Hospital SDK		10	45	All Essential Facilities are available	Halls		Cardiac Block THQ Hospital SDK R. Y. Khan	28.4568827	70.094779
+17	R. Y. Khan	GBHS Murad Pur Sial, Tehsil Liaqatpur.		12	40	All Essential Facilities are available	Halls		GBHS Murad Pur Sial, Tehsil Liaqatpur. R. Y. Khan	0	0
+18	R. Y. Khan	Govt. Boys degree College Sehja, Tehsil Khanpur		50	50	All Essential Facilities are available	Single Capacity		Govt. Boys degree College Sehja, Tehsil Khanpur R. Y. Khan	0	0
+19	Total		1710	1288	4644					46.3144754	11.0480288
+20	DG Khan	Ghazi University Agriculture Campus near Airport, D.G. Khan		204	850	yes	All daily use items & meals are being provided regularly		Ghazi University Agriculture Campus near Airport, D.G. Khan DG Khan	29.9642849	70.4982896
+21	DG Khan	Hotel One	35		35				Hotel One DG Khan	36.7015264	137.8444157
+22	Layyah	GC University Faisalabad Layyah Campus		100	100	Electricity, Water Supply, Separated rooms.	08 Places are identified but not Functional in District Layyah.		GC University Faisalabad Layyah Campus Layyah	30.9824	70.9488695
+23	Layyah	Muhammad Ali Education University Campus Layyah		16	16	Electricity, Water Supply, Separated rooms.			Muhammad Ali Education University Campus Layyah Layyah	30.9427422	70.9565253
+24	Layyah	AIMS College /GC University Lahore campus		12	12	Electricity, Water Supply, Separated rooms.			AIMS College /GC University Lahore campus Layyah	30.9928769	70.9629299
+25	Layyah	Beacon Light College, Fatehpur		25	25	Electricity, Water Supply, Separated rooms.			Beacon Light College, Fatehpur Layyah	31.1638453	71.2056126
+26	Layyah	Govt. Degree College For Boys Peer Jaggi.		20	20	Electricity, Water Supply, Separated rooms.			Govt. Degree College For Boys Peer Jaggi. Layyah	30.9228693	70.788724
+27	Layyah	Govt. Degree College For Girls Karor		30	30	Electricity, Water Supply, Separated rooms.			Govt. Degree College For Girls Karor Layyah	30.8714091	70.474374
+28	Layyah	Govt. Degree College For Girls 90/ML		25	25	Electricity, Water Supply, Separated rooms.			Govt. Degree College For Girls 90/ML Layyah	31.3169299	71.0770883
+29	Layyah	Govt. Degree College For Boys Karor		30	30	Electricity, Water Supply, Separated rooms.			Govt. Degree College For Boys Karor Layyah	31.3171563	70.9413761
+30	Muzaffargarh	Aroma Inn	8		14		One Star		Aroma Inn Muzaffargarh	30.4460885	70.9643948
+31	Muzaffargarh	Aghosh	7		15		One Star		Aghosh Muzaffargarh	30.0670314	71.1695301
+32	Muzaffargarh	Green Palace	15		30		One Star Sealed from 1 year because of litigation		Green Palace Muzaffargarh	30.1925748	70.7819024
+33	Muzaffargarh	Indus Hotel	5		10		One Star		Indus Hotel Muzaffargarh	30.1904752	69.9405897
+34	Muzaffargarh	Osis Hotel	9		19		One Star		Osis Hotel Muzaffargarh	30.0779978	71.1829519
+35	Muzaffargarh	Silver City Hotel	9		10		One Star		Silver City Hotel Muzaffargarh	30.0712129	71.1931244
+36	Muzaffargarh	Aghosh Hotel	8		16		One Star		Aghosh Hotel Muzaffargarh	30.0685581	71.1680817
+37	Muzaffargarh	Europ Hotel	5		6		One Star		Europ Hotel Muzaffargarh		
+38	Muzaffargarh	Government College of Technology Muzaffargarh (Admin Block, Hostel & Labs)		47	208	Civic amenties, Boundary wall, Security arrangement			Government College of Technology Muzaffargarh (Admin Block, Hostel & Labs) Muzaffargarh	30.0609399	71.144506
+39	Muzaffargarh	Emine Erdogan Danish Care School Basira (Admin Block , Dining Hall & Hostel)		135	386	DO			Emine Erdogan Danish Care School Basira (Admin Block , Dining Hall & Hostel) Muzaffargarh	30.0789241	71.0596639
+40	Muzaffargarh	Govt. Boys Degree College Chowk Sarwar Shaheed		41	150	DO			Govt. Boys Degree College Chowk Sarwar Shaheed Muzaffargarh	30.5575547	71.2420812
+41	Muzaffargarh	Govt. College of Technology Kot Addu		45	170	DO			Govt. College of Technology Kot Addu Muzaffargarh	30.410699	70.8254864
+42	Muzaffargarh	Govt High School Jhan Pur		10	80	DO			Govt High School Jhan Pur Muzaffargarh	0	0
+43	Muzaffargarh	Govt High School Namurdi		10	80	DO			Govt High School Namurdi Muzaffargarh	29.5879014	70.7630862
+44	Muzaffargarh	Mubarak Khanum Public School		60	120	DO			Mubarak Khanum Public School Muzaffargarh	0	0
+45	Muzaffargarh	Special Education Seet pur		35	70	DO			Special Education Seet pur Muzaffargarh	30.0575331	70.6206412
+46	Muzaffargarh	Govt. Technical College		34	150	Bathroom, Electricity, Power Backup, Boundry Wall			Govt. Technical College Muzaffargarh	31.2616169	72.3593567
+47	Muzaffargarh	Lab Higher Secondary Elementary College		8	50	DO			Lab Higher Secondary Elementary College Muzaffargarh	0	0
+48	Muzaffargarh	Govt. Degree College Boys		17	139	DO			Govt. Degree College Boys Muzaffargarh	30.038424	70.634794
+49	Muzaffargarh	Govt. Post Graduate College		20	200	DO			Govt. Post Graduate College Muzaffargarh	29.1175171	71.2708305
+50	Rajanpur	Govt. Post Graduate Boys College, main Indus Road, Jampur.		12	65	Water, Electricity, Wash room, Boundary Wall			Govt. Post Graduate Boys College, main Indus Road, Jampur. Rajanpur	29.6561456	70.5951783
+51	Rajanpur	Boys Degree College, Fazilpur		14	100	Water, Electricity, Wash room, Boundary Wall			Boys Degree College, Fazilpur Rajanpur	29.3090195	70.4372505
+52	Rajanpur	Sheikh Khalifa Zayd College, Rojhan		6	60	Water, Electricity, Wash room, Boundary Wall			Sheikh Khalifa Zayd College, Rojhan Rajanpur	0	0
+53	Total		101	956	3291					46.3144754	11.0480288
+54	Faisalabad	Government Collage Arkana Banglow		6	50	All Utilities Available	Ready To Use		Government Collage Arkana Banglow Faisalabad	31.5398483	74.2854565
+55	Faisalabad	Govt. College Pensara		6	50	All Utilities Available	Ready To Use		Govt. College Pensara Faisalabad	31.4402501	73.0106868
+56	Faisalabad	GC University Hostals New & Old		629	2100	All Utilities Available	Ready To Use		GC University Hostals New & Old Faisalabad	31.4411594	73.0219533
+57	Faisalabad	PARS Center University Of Agriculture		240	612	All Utilities Available	Ready To Use		PARS Center University Of Agriculture Faisalabad	31.4302909	73.0650107
+58	Faisalabad	GC University Hostals New & Old, Fsd		629	1258	All Utilities Available	Ready To Use		GC University Hostals New & Old, Fsd Faisalabad	31.4020905	73.0380292
+59	Faisalabad	PARC Center University Of Agriculture, Fsd		240	480	All Utilities Available	Ready To Use		PARC Center University Of Agriculture, Fsd Faisalabad	31.4302909	73.0650107
+60	Faisalabad	Agriculture university, Faisalabad		1800	3600	All Utilities Available	Ready To Use		Agriculture university, Faisalabad Faisalabad	31.4309592	73.0694334
+61	Faisalabad	Government College University, Faisalabad.		400	800	All Utilities Available	Ready To Use		Government College University, Faisalabad. Faisalabad	31.4161156	73.0677801
+62	Faisalabad	Government College University, Women.		80	160	All Utilities Available	Ready To Use		Government College University, Women. Faisalabad	31.417251	73.1165825
+63	Faisalabad	UET, Faisalabad campus		120	360	All Utilities Available	Ready To Use		UET, Faisalabad campus Faisalabad	31.4632514	73.2504898
+64	Faisalabad	NTU, Faisalabad		410	820	All Utilities Available	Ready To Use		NTU, Faisalabad Faisalabad	31.4618558	73.1476056
+65	Faisalabad	NFC, Faisalabad		105	210	All Utilities Available	Ready To Use		NFC, Faisalabad Faisalabad	31.4084498	73.1198383
+66	Faisalabad	Education university, samanabad		53	106	All Utilities Available	Ready To Use		Education university, samanabad Faisalabad	31.3949491	73.069586
+67	Faisalabad	University of Faisalabad, garden canal road		35	70	All Utilities Available	Ready To Use		University of Faisalabad, garden canal road Faisalabad	31.5002446	73.0787716
+68	Faisalabad	Govt. College Pensara, Fsd		6	20	All Utilities Available	Ready To Use		Govt. College Pensara, Fsd Faisalabad	0	0
+69	Faisalabad	RHC 374 GB Jaranwala		6	20	All Utilities Available	Ready To Use		RHC 374 GB Jaranwala Faisalabad	31.2160013	73.3505755
+70	Faisalabad	Government Collage Arkana Banglow, Jaranwala		6	20	All Utilities Available	Ready To Use		Government Collage Arkana Banglow, Jaranwala Faisalabad	31.2663697	73.3049508
+71	Faisalabad	RHC 400 GB Tandlianwala		6	20	All Utilities Available	Ready To Use		RHC 400 GB Tandlianwala Faisalabad	0	0
+72	Faisalabad	Sarena Hotel, Club Road	141		300	All Utilities Available	Ready To Use		Sarena Hotel, Club Road Faisalabad	31.4286128	73.079971
+73	Faisalabad	National Hotel, Chiban More	30		70	All Utilities Available	Ready To Use		National Hotel, Chiban More Faisalabad	31.4309407	73.0914479
+74	Faisalabad	Prince Hotel,  Near Minan Trust	20		50	All Utilities Available	Ready To Use		Prince Hotel,  Near Minan Trust Faisalabad	31.4249441	73.087314
+75	Faisalabad	Al Baraq Hotel, Railway Station	18		25	All Utilities Available	Ready To Use		Al Baraq Hotel, Railway Station Faisalabad	31.4168367	73.0851562
+76	Faisalabad	Prime Hotel, Kotwali Road	47		56	All Utilities Available	Ready To Use		Prime Hotel, Kotwali Road Faisalabad	31.4175262	73.0729438
+77	Faisalabad	Raz Hotel , Kotwali Road	17		30	All Utilities Available	Ready To Use		Raz Hotel , Kotwali Road Faisalabad	0	0
+78	Faisalabad	Al-Noor Hotel	21		37	All Utilities Available	Ready To Use		Al-Noor Hotel Faisalabad	31.4138727	73.068625
+79	Faisalabad	Shan Hotel, Aminpur Bazar	18		36	All Utilities Available	Ready To Use		Shan Hotel, Aminpur Bazar Faisalabad	31.4197963	73.077714
+80	Faisalabad	New Kashmir Hotel, Clock Tower	36		70	All Utilities Available	Ready To Use		New Kashmir Hotel, Clock Tower Faisalabad	31.4188149	73.0787735
+81	Faisalabad	Regent Hotel, Chiniot Bazar	48		95	All Utilities Available	Ready To Use		Regent Hotel, Chiniot Bazar Faisalabad	31.4209888	73.0789706
+82	Faisalabad	Mehfal Hotel, Chiniot Bazar	24		45	All Utilities Available	Ready To Use		Mehfal Hotel, Chiniot Bazar Faisalabad	31.419498	73.0766245
+83	Faisalabad	Bismillah Hotel, Chiniot Bazar	15		30	All Utilities Available	Ready To Use		Bismillah Hotel, Chiniot Bazar Faisalabad	31.4052748	73.0306458
+84	Faisalabad	Grace Hotel, Chiniot Bazar	10		20	All Utilities Available	Ready To Use		Grace Hotel, Chiniot Bazar Faisalabad	31.4209888	73.0789706
+85	Faisalabad	Jadah Hotel	13		25	All Utilities Available	Ready To Use		Jadah Hotel Faisalabad	0	0
+86	Faisalabad	City Hotel, Aminpur Bazar	10		20	All Utilities Available	Ready To Use		City Hotel, Aminpur Bazar Faisalabad	31.4197963	73.077714
+87	Faisalabad	Prince Hotel,  Aminpur Bazar	8		16	All Utilities Available	Ready To Use		Prince Hotel,  Aminpur Bazar Faisalabad	31.4190507	73.0763551
+88	Faisalabad	Taj Hotel, Jinnah Colony	7		12	All Utilities Available	Ready To Use		Taj Hotel, Jinnah Colony Faisalabad	31.4219483	73.0674974
+89	Faisalabad	Punjab Hotel, Narowala Road	13		24	All Utilities Available	Ready To Use		Punjab Hotel, Narowala Road Faisalabad	0	0
+90	Faisalabad	Prime View Hotel	22		66	All Utilities Available	Ready To Use		Prime View Hotel Faisalabad	31.4474841	73.0743817
+91	Faisalabad	Khayyam Hotel, Akbar Chowk	13		30	All Utilities Available	Ready To Use		Khayyam Hotel, Akbar Chowk Faisalabad	31.4462419	73.0781137
+92	Faisalabad	Doha Hotel, Dewoo Road	13		26	All Utilities Available	Ready To Use		Doha Hotel, Dewoo Road Faisalabad	31.4462644	73.0715476
+93	Faisalabad	Crown Hotel, Railway Station	11		20	All Utilities Available	Ready To Use		Crown Hotel, Railway Station Faisalabad	31.4173454	73.0945605
+94	Faisalabad	Indus Hotel, Railway Station	8		16	All Utilities Available	Ready To Use		Indus Hotel, Railway Station Faisalabad	31.56861865	74.32712731
+95	Faisalabad	Chenab Hotel, Railway Station	13		23	All Utilities Available	Ready To Use		Chenab Hotel, Railway Station Faisalabad	31.4174436	73.0967355
+96	Faisalabad	Bombay Motor Hotel, Railway Station	5		10	All Utilities Available	Ready To Use		Bombay Motor Hotel, Railway Station Faisalabad	31.4173454	73.0945605
+97	Faisalabad	Rizaq Hotel, Railway Station	10		20	All Utilities Available	Ready To Use		Rizaq Hotel, Railway Station Faisalabad	31.4173545	73.0945605
+98	Faisalabad	Lajin Hotel, Jaranwala Road	21		40	All Utilities Available	Ready To Use		Lajin Hotel, Jaranwala Road Faisalabad	0	0
+99	Faisalabad	Hotel One, D.Ground	23		43	All Utilities Available	Ready To Use		Hotel One, D.Ground Faisalabad	31.4075632	73.1135933
+100	Faisalabad	The One Hotel, Harrianwala Chowk	14		28	All Utilities Available	Ready To Use		The One Hotel, Harrianwala Chowk Faisalabad	31.4075857	73.1070272
+101	Faisalabad	Sandal Bar Hotel, Saleemi Chowk	11		21	All Utilities Available	Ready To Use		Sandal Bar Hotel, Saleemi Chowk Faisalabad	31.4075072	73.097345
+102	Faisalabad	Gateway Hotel, Gatenwala Chowk	8		18	All Utilities Available	Ready To Use		Gateway Hotel, Gatenwala Chowk Faisalabad	0	0
+103	Faisalabad	Executive Hotel, Susan Road	12		23	All Utilities Available	Ready To Use		Executive Hotel, Susan Road Faisalabad	31.4203498	73.115348
+104	Faisalabad	Elite Hotel, Saleemi Chowk	6		12	All Utilities Available	Ready To Use		Elite Hotel, Saleemi Chowk Faisalabad	31.407185	73.0984693
+105	Faisalabad	Cornal In Hotel, D.Ground	16		31	All Utilities Available	Ready To Use		Cornal In Hotel, D.Ground Faisalabad	31.4050797	73.0993962
+106	Faisalabad	Grand Regent Hotel, Chen One Road	49		110	All Utilities Available	Ready To Use		Grand Regent Hotel, Chen One Road Faisalabad	31.4106862	73.1048553
+107	Faisalabad	Namwa Hotel, College Road	10		10	All Utilities Available	Ready To Use		Namwa Hotel, College Road Faisalabad	31.3908403	73.0658412
+108	Faisalabad	Hotel City, Kohi-e-Noor Palaza	100		100	All Utilities Available	Ready To Use		Hotel City, Kohi-e-Noor Palaza Faisalabad	31.4132576	73.0753395
+109	Faisalabad	Garwah Hotel Canal Road	31		31	All Utilities Available	Ready To Use		Garwah Hotel Canal Road Faisalabad	0	0
+110	Faisalabad	Fine Star Hotel, Bank More	8		8	All Utilities Available	Ready To Use		Fine Star Hotel, Bank More Faisalabad	31.4249971	73.1202191
+111	Faisalabad	Grand Hotel, Hockey Stadium	18		18	All Utilities Available	Ready To Use		Grand Hotel, Hockey Stadium Faisalabad	32.9892522	70.6079125
+112	Faisalabad	Raj One Hotel, Susan Road	25		25	All Utilities Available	Ready To Use		Raj One Hotel, Susan Road Faisalabad	31.4202001	73.1165849
+113	Faisalabad	Avari Hotel, Kohi-e-Noor	25		25	All Utilities Available	Ready To Use		Avari Hotel, Kohi-e-Noor Faisalabad	31.4110184	73.1168756
+114	Faisalabad	Silk Hotel, Hockey Stadium	14		14	All Utilities Available	Ready To Use		Silk Hotel, Hockey Stadium Faisalabad	31.4187382	73.1127892
+115	Faisalabad	Dewan Hotel, Sheikhupura Road	4		8	All Utilities Available	Ready To Use		Dewan Hotel, Sheikhupura Road Faisalabad	0	0
+116	Faisalabad	Rilton Hotel, Canal Road	60		150	All Utilities Available	Ready To Use		Rilton Hotel, Canal Road Faisalabad	31.4293946	73.0775947
+117	Chiniot	Govt. Boys High School, Chak No. 14/JB, Chiniot		23	69	All Failities Availabad	Ready To Use		Govt. Boys High School, Chak No. 14/JB, Chiniot Chiniot	31.7250555	73.109823
+118	Chiniot	Govt. Girls Degree College		30	90	Electricity, Clean Water,  Bathrooms, Kitchen	Ready To Use		Govt. Girls Degree College Chiniot	31.7224152	72.9840026
+119	Chiniot	Govt. Islamia College		10	30	Electricity, Clean Water,  Bathrooms, Kitchen	Ready To Use		Govt. Islamia College Chiniot	31.7196687	72.9893276
+120	Chiniot	Chenab College, Chiniot		52	156	Electricity, Clean Water,  Bathrooms, Kitchen	Ready To Use		Chenab College, Chiniot Chiniot	31.8227416	73.1107531
+121	Chiniot	Govt. Elementary College		20	60	Electricity, Clean Water,  Bathrooms, Kitchen	Ready To Use		Govt. Elementary College Chiniot	31.721096	72.9895812
+122	Chiniot	Fast National University		100	300	Electricity, Clean Water,  Bathrooms, Kitchen	Ready To Use		Fast National University Chiniot	31.6014527	73.0335426
+123	Chiniot	KIMS College		14	42	Electricity, Clean Water,  Bathrooms, Kitchen	Ready To Use		KIMS College Chiniot	31.6954061	72.9559557
+124	Chiniot	Govt. K.A. Islamia Degree College Jamiaabad, Bhowana		30	90	All Failities Availabad	Ready To Use		Govt. K.A. Islamia Degree College Jamiaabad, Bhowana Chiniot	0	0
+125	Chiniot	Govt. Boys Degree College Lalian		4	12	All Failities Availabad	Ready To Use		Govt. Boys Degree College Lalian Chiniot	31.8294207	72.7967549
+126	Jhang	Govt. Girls Degree College, Khewa, Jhang		20	100	All Utilities Available	Ready To Use		Govt. Girls Degree College, Khewa, Jhang Jhang	31.2706864	72.3027827
+127	Jhang	Govt. Boys Degree College Hostel, 18- Hazari		12	50	All Utilities Available	Ready To Use		Govt. Boys Degree College Hostel, 18- Hazari Jhang	0	0
+128	Jhang	Sp. Education School, A.P.Sial		38	50	All Utilities Available	Ready To Use		Sp. Education School, A.P.Sial Jhang	30.7670786	71.6528912
+129	Jhang	Govt. Elementary School, Meerlain wala, Shorkot.		10	80	All Utilities Available	Ready To Use		Govt. Elementary School, Meerlain wala, Shorkot. Jhang	30.8404495	72.0815845
+130	Jhang	Ali Ahmad Hospital Toba Road Jhang		23	69	All Utilities Available	Ready To Use		Ali Ahmad Hospital Toba Road Jhang Jhang	31.2439509	72.3250767
+131	Jhang	Chenab College Jhang		225	675	All Utilities Available	Ready To Use		Chenab College Jhang Jhang	31.3403864	72.3743507
+132	Jhang	Muhammad Hospital Toba Road Jhang		35	105	All Utilities Available	Ready To Use		Muhammad Hospital Toba Road Jhang Jhang	0	0
+133	Jhang	Shifa Hospoitl Civilines Jhang		22	66	All Utilities Available	Ready To Use		Shifa Hospoitl Civilines Jhang Jhang	31.2702522	72.3210585
+134	Jhang	College of Veterinary Hospital Jhang		54	162	All Utilities Available	Ready To Use		College of Veterinary Hospital Jhang Jhang	0	0
+135	Jhang	Govt. boys High School Shorkot		33	99	All Utilities Available	Ready To Use		Govt. boys High School Shorkot Jhang	30.7965622	71.9484469
+136	Jhang	Govt Girls High School shorkot		12	24	All Utilities Available	Ready To Use		Govt Girls High School shorkot Jhang	30.8367656	72.0728173
+137	Jhang	Govt degree college shorkot		40	120	All Utilities Available	Ready To Use		Govt degree college shorkot Jhang	30.8212943	72.1020914
+138	Jhang	Govt High School Abbass pura  Shorkot		15	45	All Utilities Available	Ready To Use		Govt High School Abbass pura  Shorkot Jhang	30.819713	72.0658277
+139	Jhang	Halima Surgical hospital shorkot		17	51	All Utilities Available	Ready To Use		Halima Surgical hospital shorkot Jhang	30.8463571	72.0836523
+140	Jhang	Hayat Medical Complex		13	39	All Utilities Available	Ready To Use		Hayat Medical Complex Jhang	31.2664631	72.317015
+141	Jhang	Yaseen Medical complex		7	21	All Utilities Available	Ready To Use		Yaseen Medical complex Jhang	31.055572	71.9286726
+142	Jhang	Fatima memorial medical complex		6	18	All Utilities Available	Ready To Use		Fatima memorial medical complex Jhang	0	0
+143	Jhang	Ali general Hospital Pattan Road		5	15	All Utilities Available	Ready To Use		Ali general Hospital Pattan Road Jhang	0	0
+144	Jhang	Chenab College Shorkot		50	150	All Utilities Available	Ready To Use		Chenab College Shorkot Jhang	30.8220279	72.1062996
+145	Jhang	Special Education college		25	75	All Utilities Available	Ready To Use		Special Education college Jhang	31.2884789	72.2737169
+146	Jhang	Chenab College AP Sila		15	45	All Utilities Available	Ready To Use		Chenab College AP Sila Jhang	0	0
+147	Jhang	Govt. Degree College Girls		18	54	All Utilities Available	Ready To Use		Govt. Degree College Girls Jhang	31.3386728	72.303792
+148	Jhang	Govt. Special Education Institute		20	60	All Utilities Available	Ready To Use		Govt. Special Education Institute Jhang	31.338928	72.3037918
+149	Jhang	Boys Degree College AP Sial		15	45	All Utilities Available	Ready To Use		Boys Degree College AP Sial Jhang	0	0
+150	Jhang	Govt Degree College Boys  wasu astana (Hostel		12	36	All Utilities Available	Ready To Use		Govt Degree College Boys  wasu astana (Hostel Jhang	0	0
+151	Jhang	Govt Degree college for boys		12	36	All Utilities Available	Ready To Use		Govt Degree college for boys Jhang	31.2728268	72.3027827
+152	T. T. Singh	Govt. Degree College (Boys) Jhang Road, Tehsil Toba Tek Singh		9	18	All Utilities Available	Ready To Use		Govt. Degree College (Boys) Jhang Road, Tehsil Toba Tek Singh T. T. Singh	31.0043092,	72.4449178
+153	T. T. Singh	Govt. Degree College (Boys) Jhang Road		9	18	All Utilities Available	Ready To Use		Govt. Degree College (Boys) Jhang Road T. T. Singh	0	0
+154	T. T. Singh	Govt. College For Women		72	216	All Utilities Available	Ready To Use		Govt. College For Women T. T. Singh	30.9763131	72.4765111
+155	T. T. Singh	Barret College Jhang Road		24	72	All Utilities Available	Ready To Use		Barret College Jhang Road T. T. Singh	31.005727	72.4607559
+156	T. T. Singh	National College for Women		25	75	All Utilities Available	Ready To Use		National College for Women T. T. Singh	30.8724515	72.3172759
+157	T. T. Singh	Commerce College Rajana Road		12	36	All Utilities Available	Ready To Use		Commerce College Rajana Road T. T. Singh	30.8640976	72.3265375
+158	T. T. Singh	TEVTA Tech Inst Rajana Road		13	39	All Utilities Available	Ready To Use		TEVTA Tech Inst Rajana Road T. T. Singh	30.948495	72.4918666
+159	T. T. Singh	Punjab College Rajana Road		24	72	All Utilities Available	Ready To Use		Punjab College Rajana Road T. T. Singh	30.945992	72.492067
+160	T. T. Singh	Superior College Rajana Road		43	129	All Utilities Available	Ready To Use		Superior College Rajana Road T. T. Singh	30.9439986	72.4945119
+161	T. T. Singh	Govt. Commerce College Toba Road, Gojra		6	12	All Utilities Available	Ready To Use		Govt. Commerce College Toba Road, Gojra T. T. Singh	31.0594704	72.4566315
+162	T. T. Singh	Al-Barkat School & Hostel Gojra Pensara Road Gojra		29	87	All Utilities Available	Ready To Use		Al-Barkat School & Hostel Gojra Pensara Road Gojra T. T. Singh	31.1627547	72.6898464
+163	T. T. Singh	Canal Road  House Dhama Banglow Gojra		4	8	All Utilities Available	Ready To Use		Canal Road  House Dhama Banglow Gojra T. T. Singh	0	0
+164	T. T. Singh	SCARP Rest House Dhama Banglow Gojra		4	8	All Utilities Available	Ready To Use		SCARP Rest House Dhama Banglow Gojra T. T. Singh	0	0
+165	T. T. Singh	Special Education School Near Bye Pass Raelway  Phatak Dijkot Road Gojra		14	28	All Utilities Available	Ready To Use		Special Education School Near Bye Pass Raelway  Phatak Dijkot Road Gojra T. T. Singh	31.1433795	72.4040154
+166	T. T. Singh	Govt. Commerce College Toba Road		6	12	All Utilities Available	Ready To Use		Govt. Commerce College Toba Road T. T. Singh	31.0338937	72.432698
+167	T. T. Singh	Boys Hostel Jamia Charagia Near Under Pass Gojra		30	60	All Utilities Available	Ready To Use		Boys Hostel Jamia Charagia Near Under Pass Gojra T. T. Singh	31.1497546	72.6815035
+168	T. T. Singh	Super Masali School Toba Road Near bus Stop Chak No.s 301-373/JB		24	72	All Utilities Available	Ready To Use		Super Masali School Toba Road Near bus Stop Chak No.s 301-373/JB T. T. Singh	30.7350797	72.2336672
+169	T. T. Singh	Divisional Public School Tehsil Kamalia		25	50	All Utilities Available	Ready To Use		Divisional Public School Tehsil Kamalia T. T. Singh	30.7138712	72.6794918
+170	T. T. Singh	Divisional Public School Kamalia		25	50	All Utilities Available	Ready To Use		Divisional Public School Kamalia T. T. Singh	30.7138712	72.6794918
+171	T. T. Singh	GHS No. 1		45	135	All Utilities Available	Ready To Use		GHS No. 1 T. T. Singh	30.7284674	72.6524593
+172	T. T. Singh	GHS No. 2		23	69	All Utilities Available	Ready To Use		GHS No. 2 T. T. Singh	30.7110847	72.6420567
+173	T. T. Singh	GHS Nomania		20	60	All Utilities Available	Ready To Use		GHS Nomania T. T. Singh	30.7247788	72.6404577
+174	T. T. Singh	PST College		85	255	All Utilities Available	Ready To Use		PST College T. T. Singh	30.7128451	72.6545938
+175	T. T. Singh	GGWE College		40	120	All Utilities Available	Ready To Use		GGWE College T. T. Singh	0	0
+176	T. T. Singh	GD College Railway Road		35	105	All Utilities Available	Ready To Use		GD College Railway Road T. T. Singh	30.9211516	72.4391998
+177	T. T. Singh	Technical College 711 GB		42	126	All Utilities Available	Ready To Use		Technical College 711 GB T. T. Singh	30.9650854	72.4486354
+178	T. T. Singh	Commerce College 711 GB		28	84	All Utilities Available	Ready To Use		Commerce College 711 GB T. T. Singh	30.05823	69.8446498
+179	T. T. Singh	Poly Technical M Shah Road		22	66	All Utilities Available	Ready To Use		Poly Technical M Shah Road T. T. Singh	0	0
+180	T. T. Singh	GHS Islamia		8	24	All Utilities Available	Ready To Use		GHS Islamia T. T. Singh	30.9856667	72.4591416
+181	T. T. Singh	GHS 715		10	30	All Utilities Available	Ready To Use		GHS 715 T. T. Singh	30.7035912	72.570172
+182	T. T. Singh	GMS 714		6	18	All Utilities Available	Ready To Use		GMS 714 T. T. Singh	30.7109425	72.5920503
+183	T. T. Singh	GHS 739		10	30	All Utilities Available	Ready To Use		GHS 739 T. T. Singh	12.8682063	74.8403464
+184	T. T. Singh	GHS 736		10	30	All Utilities Available	Ready To Use		GHS 736 T. T. Singh	12.8682063	74.8403464
+185	T. T. Singh	GGHS 737		9	27	All Utilities Available	Ready To Use		GGHS 737 T. T. Singh	0	0
+186	T. T. Singh	GHS Mohail		12	36	All Utilities Available	Ready To Use		GHS Mohail T. T. Singh	0	0
+187	T. T. Singh	GHS Sheikh Burhan		10	30	All Utilities Available	Ready To Use		GHS Sheikh Burhan T. T. Singh	0	0
+188	T. T. Singh	GHS Qadar Baksh		10	30	All Utilities Available	Ready To Use		GHS Qadar Baksh T. T. Singh	0	0
+189	T. T. Singh	Model GHS		40	120	All Utilities Available	Ready To Use		Model GHS T. T. Singh	30.9734565	72.4757339
+190	T. T. Singh	GGHS Lab		35	105	All Utilities Available	Ready To Use		GGHS Lab T. T. Singh	30.9725536	72.469701
+191	T. T. Singh	GGHS Kachi Basti		20	60	All Utilities Available	Ready To Use		GGHS Kachi Basti T. T. Singh	30.9717758	72.4712754
+192	T. T. Singh	DPS		15	45	All Utilities Available	Ready To Use		DPS T. T. Singh	30.9748716	72.4729624
+193	T. T. Singh	GESB 705		6	18	All Utilities Available	Ready To Use		GESB 705 T. T. Singh	30.7351479	72.5833119
+194	T. T. Singh	GESG 705		6	18	All Utilities Available	Ready To Use		GESG 705 T. T. Singh	30.7351479	72.5833119
+195	T. T. Singh	GESG 712		8	24	All Utilities Available	Ready To Use		GESG 712 T. T. Singh	30.6859471	72.6578505
+196	T. T. Singh	Govt. Ghousia Fareed Baksh Degree Science College 333/GB, Tehsil Pirmahal		24	48	All Utilities Available	Ready To Use		Govt. Ghousia Fareed Baksh Degree Science College 333/GB, Tehsil Pirmahal T. T. Singh	30.7999117	72.3816328
+197	T. T. Singh	Govt. Degree College (W) 721/GB, Tehsil Pirmahal		34	68	All Utilities Available	Ready To Use		Govt. Degree College (W) 721/GB, Tehsil Pirmahal T. T. Singh	30.6650831	72.4688558
+198	T. T. Singh	Govt. Ghousia Fareed Baksh Degree Science College 333/GB		24	48	All Utilities Available	Ready To Use		Govt. Ghousia Fareed Baksh Degree Science College 333/GB T. T. Singh	30.7967759	72.3847874
+199	T. T. Singh	Govt. Degree College (Women) 721 GB		34	68	All Utilities Available	Ready To Use		Govt. Degree College (Women) 721 GB T. T. Singh	30.6650831	72.4688558
+200	T. T. Singh	Govt. High School No. 1 Pirmahal		38	76	All Utilities Available	Ready To Use		Govt. High School No. 1 Pirmahal T. T. Singh	30.769718	72.4350914
+201	T. T. Singh	Union Council No. 72 Plot C		3	6	All Utilities Available	Ready To Use		Union Council No. 72 Plot C T. T. Singh	0	0
+202	T. T. Singh	Union Council No. 71 Chak No. 319 GB		3	6	All Utilities Available	Ready To Use		Union Council No. 71 Chak No. 319 GB T. T. Singh	0	0
+203	Total		1046	6927	18829					46.3144754	11.0480288
+204	Gujranwala	Muslim Hands School/College, Sialkot Road Sohdra, Wazirabad		82	500	All Utilities Available	Capacity 1 person / 1 room facility Plan A : 182 capacity Plan B : 453 persons which can be extended to 500		Muslim Hands School/College, Sialkot Road Sohdra, Wazirabad Gujranwala	32.4431516	74.170521
+205	Gujranwala	60 Hotels	1000		1000				60 Hotels Gujranwala	31.3953863	-103.5013639
+206	Gujrat	New Admin Block NSMC University of Gujrat		332	1000	All Utilities Available			New Admin Block NSMC University of Gujrat Gujrat	32.6355296	74.1569802
+207	Gujrat	18 Hotels	231		231				18 Hotels Gujrat	31.3953863	-103.5013639
+208	Hafizabad	Police Petroling Sheikhupura Road Hafizabads		8	40	Food Services, Laundary, Dispensary, Elecricity with backup & boundary wall inplace	facility is 10 km from Main Town &  Facility ready for accomodation		Police Petroling Sheikhupura Road Hafizabads Hafizabad	0	0
+209	Hafizabad	Government degree College (Women) Sharqi Side Hafizabad		28	87	All Utilities Available			Government degree College (Women) Sharqi Side Hafizabad Hafizabad	32.0751517	73.650192
+210	Hafizabad	Degree College for Boys Pindi Bhattian		33	87		The Centers are located about 2 Km away from the city Pindi Bhattian, well secured and easily accessible.		Degree College for Boys Pindi Bhattian Hafizabad	32.0602602	73.66826
+211	Hafizabad	Degree College for Girls Pindi Bhattian		33	87		DO		Degree College for Girls Pindi Bhattian Hafizabad	32.1253348	73.7490337
+212	MB Din	13 Hotels	65		65				13 Hotels MB Din	0	0
+213	MB Din	Girls College Kadhar M.B.Din		25	250	Food Services, Medical,  Elecricity with backup, Security, sewage, Ambulance			Girls College Kadhar M.B.Din MB Din	32.422835	73.478966
+214	MB Din	Official Residences and Flats – New DHQ Hospital MB Din		350	500	Clean drinking water, closed & secure premises, Electricity, Wash Rooms,	Issues: Matter is being taken up with GEPCO authorities for immediate electricity connection Status: Electricity required. Otherwise ready		Official Residences and Flats – New DHQ Hospital MB Din MB Din	32.5824145	73.4888272
+215	MB Din	BHU Marala &Residences		50	50		DO		BHU Marala &Residences MB Din	0	0
+216	Narowal	Univerity of Narowal		153	356	Yes	7 Hall		Univerity of Narowal Narowal	32.1037714	74.8784105
+217	Narowal	Kartarpur Coridor		1	2	Yes	Ready		Kartarpur Coridor Narowal	0	0
+218	Narowal	Diagnostic Center NarowalUnder GINUM (Isolation), DHQ Hospital Narowal		10	10	Yes	Ready		Diagnostic Center NarowalUnder GINUM (Isolation), DHQ Hospital Narowal Narowal	0	0
+219	Narowal	UET Narowal		188	330	Yes			UET Narowal Narowal	32.1009752	74.872238
+220	Narowal	2 Hotels	19		19				2 Hotels Narowal	0	0
+221	Sialkot	9 Hotels	258		258				9 Hotels Sialkot	0	0
+222	Sialkot	Qasim Boys Hostel  Khawaja Safdar Medical College Sialkot		28	56	Electorcity, Water Supply, Wash Room Adequate Drinking Water, Trained, Health Staff, IEC Material, Secuirty Basic Medical Equipment, Backup Light	Under Process		Qasim Boys Hostel  Khawaja Safdar Medical College Sialkot Sialkot	32.5047433	74.5473349
+223	Sialkot	Khalid Boys Hostel Khawaja Safdar Medical College Sialkot		28	56	DO	Under Process		Khalid Boys Hostel Khawaja Safdar Medical College Sialkot Sialkot	32.5040744	74.5487777
+224	Sialkot	Allama Iqbal Women College Khadim Ali Raod Sialkot		55	110	DO	Under Process		Allama Iqbal Women College Khadim Ali Raod Sialkot Sialkot	32.4970193	74.5265681
+225	Sialkot	Girls Hostel Govt. Women Univeristy Sialkot		70	210	DO	Under Process		Girls Hostel Govt. Women Univeristy Sialkot Sialkot	32.497932	74.5211971
+226	Sialkot	Government Girls Degree College Orah		10	150	DO	Under Process		Government Girls Degree College Orah Sialkot	32.4979676	74.5211971
+227	Sialkot	Government Girls Degree College Mundekey Goraya		10	150	DO	Under Process		Government Girls Degree College Mundekey Goraya Sialkot	31.7960761	74.038617
+228	Sialkot	7 Colleges outside urban				One Bus Capacity i.e. 48 Persons quarantine in each of 7 colleges can be readied in 36 hours.			7 Colleges outside urban Sialkot	0	0
+229	Sialkot	Shelter Home THQ Daska Sialkot		2	80	DO	Under Process		Shelter Home THQ Daska Sialkot Sialkot	32.3342276	74.3426884
+230	Total		1573	1496	5684					46.3144754	11.0480288
+231	Lahore	UET Campus, Kala Shah Kaku		147	418	Essentially required facilities available			UET Campus, Kala Shah Kaku Lahore	31.694287	74.246693
+232	Lahore	UET Campus, Kala Shah Kaku		90	270	DO			UET Campus, Kala Shah Kaku Lahore	31.694287	74.246693
+233	Lahore	Boys hostel GCU Campus Kala Shah Kaku		120	240	Water, 02 Electric water coolers + 01 Water Filteration Unit,Electricity, 01 Standby Generator	Common Wash Rooms Blocks		Boys hostel GCU Campus Kala Shah Kaku Lahore	31.6897891	74.2489256
+234	Lahore	Boys Hostel, UET Campus Kala Shah Kaku		87	219	Water, Electricity	Most rooms have attached washrooms, Some rooms share washrooms. Both Campuses identified for persons to be quarantined in Distt Lahore		Boys Hostel, UET Campus Kala Shah Kaku Lahore	31.694265	74.2488946
+235	Lahore	Punjab Judicial Academy, Kala Shah Kaku		120	250	DO			Punjab Judicial Academy, Kala Shah Kaku Lahore	31.5618943	74.3130013
+236	Lahore	GCU Campus, Kala Shah Kaku		90	270	DO			GCU Campus, Kala Shah Kaku Lahore	31.7384204	74.190413
+237	Lahore	PARK LANE HOTEL, 107-B-3 M.M.ALAM ROAD GULBERG III LHR	100		100				PARK LANE HOTEL, 107-B-3 M.M.ALAM ROAD GULBERG III LHR Lahore	31.5035682	74.3471562
+238	Lahore	INDIGO HEIGHTS HOTELS SUITS, 3-C3 NOOR JHAN ROAD GULBERG III LHR	80		80				INDIGO HEIGHTS HOTELS SUITS, 3-C3 NOOR JHAN ROAD GULBERG III LHR Lahore	31.5071266	74.3462323
+239	Lahore	SUNFORT HOTEL, 72-D/1 LIBERTY COMMERICAIL ZONE GULBERG III LHR	70		70				SUNFORT HOTEL, 72-D/1 LIBERTY COMMERICAIL ZONE GULBERG III LHR Lahore	31.5117151	74.3410663
+240	Lahore	SMART HOTEL, 36 LIBERTY MARKET GULBERG III LHR	70		70				SMART HOTEL, 36 LIBERTY MARKET GULBERG III LHR Lahore	31.5099432	74.3409332
+241	Lahore	FALETTI’S GRAND HOTEL, 32/C-3 GULBERG III LHR	80		80				FALETTI’S GRAND HOTEL, 32/C-3 GULBERG III LHR Lahore	31.5044037	74.3456857
+242	Lahore	THE RESIDENCY HOTEL, 39/A GULBERG V OFF ZAFAR ALI ROAD GULBERG LHR	70		70				THE RESIDENCY HOTEL, 39/A GULBERG V OFF ZAFAR ALI ROAD GULBERG LHR Lahore	31.5394666	74.3482903
+243	Lahore	AVARI EXPRESS HOTEL, MAIN BOULEVARD GULBERG LHR	100		100				AVARI EXPRESS HOTEL, MAIN BOULEVARD GULBERG LHR Lahore	31.520704	74.3446369
+244	Lahore	GRAND PLAM HOTEL, FEROZPUR ROAD OPP. GADDAFI STADIUM LHR	70		70				GRAND PLAM HOTEL, FEROZPUR ROAD OPP. GADDAFI STADIUM LHR Lahore	31.5123058	74.3287764
+245	Lahore	THE NISHAT HOTEL, 9/A MEHMOOD ALI KASURI ROAD GULBERG III LHR	80		80				THE NISHAT HOTEL, 9/A MEHMOOD ALI KASURI ROAD GULBERG III LHR Lahore	31.5069541	74.3541804
+246	Lahore	THE SAVOEY HOTEL, 273-A/3 GULBERG ROAD GULBERG III LHR	80		80				THE SAVOEY HOTEL, 273-A/3 GULBERG ROAD GULBERG III LHR Lahore	31.506117	74.344542
+247	Lahore	MALSONETTE HOTEL & RESORT, 51-CI GHALIB ROAD GULBERG III LHR	50		50				MALSONETTE HOTEL & RESORT, 51-CI GHALIB ROAD GULBERG III LHR Lahore	31.5141212	74.3469792
+248	Lahore	SHALIMAR TOWER, JAIL ROAD	80		80				SHALIMAR TOWER, JAIL ROAD Lahore	31.5341905	74.3434579
+249	Lahore	NATIONAL HOTEL, ABBOT ROAD	100		100				NATIONAL HOTEL, ABBOT ROAD Lahore	31.5668432	74.3239836
+250	Lahore	METROPOL HOTEL, ABBOT ROAD	100		100				METROPOL HOTEL, ABBOT ROAD Lahore	31.5651521	74.3275207
+251	Lahore	LUXCES GRAND HOTEL, EGRATON ROAD	100		100				LUXCES GRAND HOTEL, EGRATON ROAD Lahore	31.5619237	74.3279836
+252	Lahore	CROWN PLAM, DHARAMPURA	80		80				CROWN PLAM, DHARAMPURA Lahore	31.5511871	74.3550143
+253	Lahore	AMMBESDIR HOTEL, DAVIS ROAD	70		70				AMMBESDIR HOTEL, DAVIS ROAD Lahore	31.5613196	74.3355713
+254	Lahore	AL-MAYDAHOTEL, PEPSI FACTORY	200		200				AL-MAYDAHOTEL, PEPSI FACTORY Lahore	31.4878405	74.2087576
+255	Lahore	ROYAL SWIFT, AIRPORT ROAD	300		300				ROYAL SWIFT, AIRPORT ROAD Lahore	31.5205446	74.4083263
+256	Kasur	Lakasa hotel Multan Road	9		9				Lakasa hotel Multan Road Kasur	30.983657	73.79022
+257	Kasur	Green Motel Multan Road	10		10				Green Motel Multan Road Kasur	30.9793769	73.7827008
+258	Kasur	UVAS Pattoki		36	36	Yes / All utility facilities availabled	Functional		UVAS Pattoki Kasur	31.06052	73.8674217
+259	Kasur	Govt. Commerce College Pattoki		19	19	Yes / All utility facilities availabled	Functional		Govt. Commerce College Pattoki Kasur	31.0605654	73.8542894
+260	Kasur	Fisheries Rest House Sindhu	3		3				Fisheries Rest House Sindhu Kasur	0	0
+261	Kasur	Irrigation Rest House Balloki	4		4				Irrigation Rest House Balloki Kasur	31.0387848	74.4858584
+262	Kasur	Red Crescent Medical & Dental College Dina Nath		134	134				Red Crescent Medical & Dental College Dina Nath Kasur	31.2462555	74.0051484
+263	Kasur	Ahsan Raheem Memorial Hospital Head Balloki.		10	10				Ahsan Raheem Memorial Hospital Head Balloki. Kasur	0	0
+264	Kasur	Govt. Degree College for Boys, KRK		11	11				Govt. Degree College for Boys, KRK Kasur	31.1063151	74.4359248
+265	Kasur	Al-Shifa Hospital (Private)		13	20				Al-Shifa Hospital (Private) Kasur	31.1064787	74.3833931
+266	Kasur	Special Education Center, Chunian		33	140				Special Education Center, Chunian Kasur	30.9619013	73.9702489
+267	Kasur	Govt. Boys Degree College College, Chunian		19	130				Govt. Boys Degree College College, Chunian Kasur	30.9614436	73.9603195
+268	Kasur	DPS School, Kasur		160	480				DPS School, Kasur Kasur	31.1595286	74.1479977
+269	Kasur	Govt. Islamia Degree Collage		54	116				Govt. Islamia Degree Collage Kasur	31.1274904	74.4517667
+270	Kasur	PIASS College, Kasur		18	48				PIASS College, Kasur Kasur	31.1443776	74.4512491
+271	Kasur	KIPS, College, Kasur		21	46				KIPS, College, Kasur Kasur	31.1486103,	74.4517186
+272	Kasur	Punjab College, Kasur		45	100				Punjab College, Kasur Kasur	31.1175143	74.4478314
+273	Kasur	Shehbaz Sharif Sports Complex, Kasur		10	24				Shehbaz Sharif Sports Complex, Kasur Kasur	31.1326176	74.4396327
+274	Kasur	Nawaz Memorial Higher Secondary School, Roshan Bheela		31	64				Nawaz Memorial Higher Secondary School, Roshan Bheela Kasur	31.0649647	74.351118
+275	Kasur	Girls Degree College, Khudian		64	74				Girls Degree College, Khudian Kasur	30.9902908	74.2653453
+276	Kasur	Veterinary University Pattoki		20	20				Veterinary University Pattoki Kasur	31.0622445	73.8639878
+277	Kasur	Rest House Changa Manga, Chunian	5		5				Rest House Changa Manga, Chunian Kasur	31.0623772	73.7961352
+278	Kasur	Rest House Ganda Singh Wala, Kasur	4		4				Rest House Ganda Singh Wala, Kasur Kasur	31.0800621	74.4256772
+279	Kasur	Brothers Sugar Mill Pvt LTD Canal, Chunian		2	10				Brothers Sugar Mill Pvt LTD Canal, Chunian Kasur	30.9604042	73.9940368
+280	Kasur	Abandoned Green View Motel, Pattoki	3		4				Abandoned Green View Motel, Pattoki Kasur	30.9793769	73.7827008
+281	Kasur	Head Balloki, Pattoki		6	6				Head Balloki, Pattoki Kasur	0	0
+282	Kasur	Mouza Sindhu, Pattoki		4	4				Mouza Sindhu, Pattoki Kasur	0	0
+283	Kasur	Labour Colony Ahad Rice Mill Raiwind Road KRK		24	24				Labour Colony Ahad Rice Mill Raiwind Road KRK Kasur	0	0
+284	Kasur	PIASS College , Kasur		24	48				PIASS College , Kasur Kasur	31.1443776	74.4512491
+285	Kasur	Nawaz Memorial Higher Secondary School, RoshanBheela		32	64				Nawaz Memorial Higher Secondary School, RoshanBheela Kasur	31.120719	74.4511372
+286	Nankana Sahib	TDCP Motel Nankana Sahib		17	55	Electricity, Backup Power, Sewerage System, Drinking Water, Gas Cylinder			TDCP Motel Nankana Sahib Nankana Sahib	31.4457445	73.7028231
+287	Nankana Sahib	Govt. Guru Nanak Degree College for Women Nankana Sahib		14	50	DO			Govt. Guru Nanak Degree College for Women Nankana Sahib Nankana Sahib	31.4479266	73.6944899
+288	Nankana Sahib	Danish School Centre of Excellence Nankana Sahib		27	70	DO			Danish School Centre of Excellence Nankana Sahib Nankana Sahib	31.4481524	73.5587778
+289	Nankana Sahib	Govt. Degree College for Women Bucheki		18	50	DO			Govt. Degree College for Women Bucheki Nankana Sahib	31.4485858	73.5587768
+290	Nankana Sahib	Govt Degree College for Women Mandi Faizabad		18	50	DO			Govt Degree College for Women Mandi Faizabad Nankana Sahib	31.4161054	73.9887165
+291	Nankana Sahib	Ajwa Marriage Hall Mandi Faizabad	1		70	DO	Hall		Ajwa Marriage Hall Mandi Faizabad Nankana Sahib	31.4151153	73.9862471
+292	Nankana Sahib	Govt. Higher Secondary School for Boys Bara Ghar		25	80	DO			Govt. Higher Secondary School for Boys Bara Ghar Nankana Sahib	31.2189233	73.6274566
+293	Nankana Sahib	Govt. Higher Secondary School for Boys More khunda		45	150	DO			Govt. Higher Secondary School for Boys More khunda Nankana Sahib	31.3206813	73.7879151
+294	Nankana Sahib	Rural Health Centre Warburton		4	20	DO			Rural Health Centre Warburton Nankana Sahib	31.31791	73.6541287
+295	Nankana Sahib	Govt. Girls Higher Secondary School for Women Syedwala		12	50	DO			Govt. Girls Higher Secondary School for Women Syedwala Nankana Sahib	31.1435822	73.4972121
+296	Nankana Sahib	Shehnaee Marriage Hall Syedwala	1		70	DO	Hall		Shehnaee Marriage Hall Syedwala Nankana Sahib	31.1523809	73.4910193
+297	Nankana Sahib	Sports Complex Hostel		9	50	DO			Sports Complex Hostel Nankana Sahib	31.4469698	73.7035135
+298	Nankana Sahib	Tehsil Rest House		8	32	DO			Tehsil Rest House Nankana Sahib	0	0
+299	Nankana Sahib	Rural Health Centre Muhammad Pura		8	50	DO			Rural Health Centre Muhammad Pura Nankana Sahib	31.622	73.6264997
+300	Nankana Sahib	Govt. Islamia Degree College for Boys Sangla Hill		13	50	DO			Govt. Islamia Degree College for Boys Sangla Hill Nankana Sahib	31.7160127	73.3634622
+301	Nankana Sahib	Govt. Elementary School for Boys Sangla Hill		8	24	DO			Govt. Elementary School for Boys Sangla Hill Nankana Sahib	31.7647829	73.4248086
+302	Nankana Sahib	Grand Height Hotel Railway Road City	5		5				Grand Height Hotel Railway Road City Nankana Sahib	31.4486642	73.7005558
+303	Nankana Sahib	Khawaja Hotel, Lori Adda Nankana Sahib	12		12				Khawaja Hotel, Lori Adda Nankana Sahib Nankana Sahib	31.4510723	73.7072087
+304	Nankana Sahib	Banda Restaurant	2		2				Banda Restaurant Nankana Sahib	41.3845148	2.1458994
+305	Nankana Sahib	Al-Fateh Restaurant	14		14				Al-Fateh Restaurant Nankana Sahib	24.811263	46.8597697
+306	Nankana Sahib	Govt. Guru Nanak Degree College for Women NNS		14	50				Govt. Guru Nanak Degree College for Women NNS Nankana Sahib	31.45011	73.7043189
+307	Nankana Sahib	Gurdawara Tambu Sahib	160	640					Gurdawara Tambu Sahib Nankana Sahib	31.448305	73.6990223
+308	Nankana Sahib	Vocational Training Institute Panwan		10	50				Vocational Training Institute Panwan Nankana Sahib	31.5907755	73.5921144
+309	Nankana Sahib	Govt. Girls High School Kot Nizamdin Chak No.184/RB		8	50				Govt. Girls High School Kot Nizamdin Chak No.184/RB Nankana Sahib	31.524565	73.4941403
+310	Nankana Sahib	Office City Model Town		8	32				Office City Model Town Nankana Sahib	31.4239138	73.6562112
+311	Nankana Sahib	Gurdwara Janam Asthan, Nankana Sahib	400		1200				Gurdwara Janam Asthan, Nankana Sahib Nankana Sahib	31.4456139	73.6958984
+312	Nankana Sahib	Mughal Marriage Hall, Near Mangtanwala Road Chowk Bai Paas	4		25				Mughal Marriage Hall, Near Mangtanwala Road Chowk Bai Paas Nankana Sahib	31.4502744	73.7128328
+313	Nankana Sahib	Nabi Noor Marriage Hall (Marki), PSO Pump to Bai Paas Link More Near Chitti Kothi Nankana Sahib	1		50				Nabi Noor Marriage Hall (Marki), PSO Pump to Bai Paas Link More Near Chitti Kothi Nankana Sahib Nankana Sahib	31.4328432	73.6411226
+314	Nankana Sahib	Qasar-e-Noor Marriage Hall, Near Lori Adda Nankana Sahib	1		25				Qasar-e-Noor Marriage Hall, Near Lori Adda Nankana Sahib Nankana Sahib	31.5326534	73.4839548
+315	Nankana Sahib	Khalid Unit (Marki), Near Lori Adda Nankana Sahib	1		30				Khalid Unit (Marki), Near Lori Adda Nankana Sahib Nankana Sahib	31.4525196	73.7114857
+316	Nankana Sahib	Humma Marriage Hall, Shora Kothi Road Near Nadra Office Nankana Sahib	3		20				Humma Marriage Hall, Shora Kothi Road Near Nadra Office Nankana Sahib Nankana Sahib	31.4480267	73.7059188
+317	Nankana Sahib	Singham Mirrage Hall, Railway Road Near District Accounts Office	1		15				Singham Mirrage Hall, Railway Road Near District Accounts Office Nankana Sahib	31.4474037	73.6987597
+318	Nankana Sahib	Al Janat Marriage Hall, Near Chungi No. 5 Nankana Sahib	3		3				Al Janat Marriage Hall, Near Chungi No. 5 Nankana Sahib Nankana Sahib	0	0
+319	Nankana Sahib	Paradise Marriage Hall,	1		20				Paradise Marriage Hall, Nankana Sahib	31.6991991	73.380672
+320	Nankana Sahib	Hakoomat Marriage Hall, Bucheki	1		15				Hakoomat Marriage Hall, Bucheki Nankana Sahib	31.3084642	73.6440134
+321	Nankana Sahib	Gold Marriage Hall, Jaranwala Road Bucheki	5		45				Gold Marriage Hall, Jaranwala Road Bucheki Nankana Sahib	31.308627	73.6671002
+322	Nankana Sahib	Qasim Marriage Hall, Lahore Road Mandi Faizabad	4		30				Qasim Marriage Hall, Lahore Road Mandi Faizabad Nankana Sahib	0	0
+323	Nankana Sahib	Al Madina Marriage Hall, Lahore Road Mandi Faizabad	1		25				Al Madina Marriage Hall, Lahore Road Mandi Faizabad Nankana Sahib	31.412399	73.9813852
+324	Nankana Sahib	Shehnai Marriage Hall, Jaranwala 240 More Road Syed Wala	2		2				Shehnai Marriage Hall, Jaranwala 240 More Road Syed Wala Nankana Sahib	31.6105727	74.2522768
+325	Nankana Sahib	Bhandhan Marriage Hall, Warburton	6		35				Bhandhan Marriage Hall, Warburton Nankana Sahib	31.5412281	73.8305111
+326	Nankana Sahib	Al Harm (Marki), Warburton	1		30				Al Harm (Marki), Warburton Nankana Sahib	31.5330402	73.8347016
+327	Nankana Sahib	Madina Marriage Hall, Warburton	3		35				Madina Marriage Hall, Warburton Nankana Sahib	31.5364435	73.8310356
+328	Nankana Sahib	Virk Marriage Hall, Warburton	5		50				Virk Marriage Hall, Warburton Nankana Sahib	31.5404072	73.8256292
+329	Nankana Sahib	Ghousia Marriage Hall, More Khunda	3		20				Ghousia Marriage Hall, More Khunda Nankana Sahib	31.314201	73.797834
+330	Nankana Sahib	Taaj Mahal Garden, More Khunda	4		30				Taaj Mahal Garden, More Khunda Nankana Sahib	31.314201	73.797834
+331	Nankana Sahib	Al Najaf (Marki), More Khunda	1		25				Al Najaf (Marki), More Khunda Nankana Sahib	31.3211789	73.7910446
+332	Nankana Sahib	Marhaba Marriage Hall, More Khunda	5		30				Marhaba Marriage Hall, More Khunda Nankana Sahib	31.3239427	73.7956041
+333	Nankana Sahib	Paragon Marriage, More Khunda Hall	4		20				Paragon Marriage, More Khunda Hall Nankana Sahib	31.2915428	73.8112063
+334	Nankana Sahib	TajMehal Marriage Hall, GhullayBajway Road, Sangla Hill	6		60				TajMehal Marriage Hall, GhullayBajway Road, Sangla Hill Nankana Sahib	31.7238766	73.3789734
+335	Nankana Sahib	Shugan Marriage Hall, Faisalabad Road, Sangla Hill.	6		50				Shugan Marriage Hall, Faisalabad Road, Sangla Hill. Nankana Sahib	31.6989318	73.3689733
+336	Nankana Sahib	Royal Palace Marriage Hall, Safdarabad Road, Sangla Hill	3		50				Royal Palace Marriage Hall, Safdarabad Road, Sangla Hill Nankana Sahib	31.7111765	73.3671676
+337	Nankana Sahib	Dubi Palace Marriage Hall, MarhBalochan, Sangla Hill.	5		25				Dubi Palace Marriage Hall, MarhBalochan, Sangla Hill. Nankana Sahib	31.787041	73.4381544
+338	Sheikhupura	Taj Mehal Hotal Lahore Road	9		9				Taj Mehal Hotal Lahore Road Sheikhupura	31.7079471	74.0023351
+339	Sheikhupura	Sultan Grand Hotal Faislabad Road Bypass	9		9				Sultan Grand Hotal Faislabad Road Bypass Sheikhupura	31.7017344	74.0142824
+340	Sheikhupura	Sun Shine Hotel GT Road	8		8				Sun Shine Hotel GT Road Sheikhupura	0	0
+341	Sheikhupura	Hotel Lahore IN, GT Road	15		15				Hotel Lahore IN, GT Road Sheikhupura	31.6619022	74.264049
+342	Sheikhupura	Park View Hotel,Dosako Chowk, Sagian	15		15				Park View Hotel,Dosako Chowk, Sagian Sheikhupura	31.6190265	74.2480232
+343	Sheikhupura	Motorway IN Hotel, Saeed Chowk, Village Baddu	15		15				Motorway IN Hotel, Saeed Chowk, Village Baddu Sheikhupura	31.679642	74.0208317
+344	Sheikhupura	Lahore Sports Country Club Narowal Rd Muridke	55		55				Lahore Sports Country Club Narowal Rd Muridke Sheikhupura	31.8255444	74.0968767
+345	Sheikhupura	UHS Campus, Kala shah kaku		130	500	All Utilities Available			UHS Campus, Kala shah kaku Sheikhupura	31.6954576	74.2474818
+346	Sheikhupura	Govt Post Graduate College for Women Sheikhupura		17	51	Water, Electricity, Gas	Washroom Block with 6 Washroom and 06 toilets. Building needs extensive repairs		Govt Post Graduate College for Women Sheikhupura Sheikhupura	31.7087885	73.9710504
+347	Sheikhupura	Govt Post Graduate College for Boys Sheikhupura		10	30	Water, Electricity, Gas	Washroom Block with 08 Washroom and 08 toilets. Building needs extensive repairs.		Govt Post Graduate College for Boys Sheikhupura Sheikhupura	31.7138248	73.9584193
+348	Sheikhupura	Govt. Post Graduate College for Boys Skp		40	240				Govt. Post Graduate College for Boys Skp Sheikhupura	31.7138248	73.9584193
+349	Sheikhupura	Govt. College for Women Skp		30	180				Govt. College for Women Skp Sheikhupura	0	0
+350	Sheikhupura	Govt. High Secondary School, Skp		35	150				Govt. High Secondary School, Skp Sheikhupura	31.7092316	73.9718869
+351	Sheikhupura	Govt. Boys College		8	50				Govt. Boys College Sheikhupura	31.7138248	73.9584193
+352	Sheikhupura	RHC Jandiala Sher Khan		5	5				RHC Jandiala Sher Khan Sheikhupura	31.8262441	73.9084481
+353	Sheikhupura	Govt. Boys College Safdarabad		6	50				Govt. Boys College Safdarabad Sheikhupura	31.7270167	73.5705601
+354	Total		2719	2507	9022						
+355	Multan	Worker Welfare Complex, Industrial Estate-II, Multan		492	1384	Electricity, Water, Sui Gas, Boundry Wall, Bathroom			Worker Welfare Complex, Industrial Estate-II, Multan Multan	0	0
+356	Multan	Nawaz Sharif Agriculture University, Multan		196	452	Electricity, Water, Sui Gas, Boundry Wall, Bathroom			Nawaz Sharif Agriculture University, Multan Multan	30.1597767	71.4480423
+357	Multan	Ramada		108	108	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Ramada Multan	30.1947882	71.4524341
+358	Multan	New DHQ Hospital, Multan		100	100	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		New DHQ Hospital, Multan Multan	30.9710511	70.9566556
+359	Multan	Avari Express	75		75	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Avari Express Multan	30.195341	71.4384932
+360	Multan	Sindbad Hotel	49		49	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Sindbad Hotel Multan	30.200982	71.4506649
+361	Multan	City Hospital		45	45	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		City Hospital Multan	30.211413	71.4675541
+362	Multan	Hotel One	45		45	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Hotel One Multan	30.2114126	71.4522331
+363	Multan	Avalon Hotel	44		44	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Avalon Hotel Multan	30.2182268	71.4684173
+364	Multan	Fatima Hospital		34	34	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Fatima Hospital Multan	30.211151	71.485175
+365	Multan	Medicare Hospital		33	33	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Medicare Hospital Multan	30.192775	71.4439663
+366	Multan	S-Chalet Hotel	29		29	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		S-Chalet Hotel Multan	30.2046824	71.4306488
+367	Multan	DE-Shalimar	28		28	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		DE-Shalimar Multan	30.1961687	71.4466463
+368	Multan	The Arina Hotel	27		27	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		The Arina Hotel Multan	30.293745	71.5047759
+369	Multan	Fiseta Inn	24		24	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Fiseta Inn Multan	30.1966239	71.4526008
+370	Multan	Hotel Grace Inn	23		23	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Hotel Grace Inn Multan	30.1992933	71.447316
+371	Multan	Grand Hotel	22		22	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Grand Hotel Multan	30.203653	71.456483
+372	Multan	Azeem Hospital		16	16	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Azeem Hospital Multan	30.195043	71.44877
+373	Multan	New Pride Hotel	15		15	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		New Pride Hotel Multan	30.2024391	71.4474898
+374	Multan	Khursheed Rafiq Hospital		14	14	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Khursheed Rafiq Hospital Multan	30.2101989	71.5001231
+375	Multan	Ibn-e-Sena Hospital		12	12	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Ibn-e-Sena Hospital Multan	30.2216975	71.5628896
+376	Multan	Family Hospital		11	11	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Family Hospital Multan	30.199881	71.4256998
+377	Multan	Hotel S.R Loung	10		10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Hotel S.R Loung Multan	30.1962552	71.4464676
+378	Multan	Hotel Serina Palace	10		10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Hotel Serina Palace Multan	30.1924184	71.4517876
+379	Multan	Aimys Guest House	9		9	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Aimys Guest House Multan	30.1968773	71.4531826
+380	Multan	Bling Hotel	8		8	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Bling Hotel Multan	30.2131544	71.4682761
+381	Multan	Hotel Paradise Plus	7		7	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Hotel Paradise Plus Multan	30.2454462	71.4821319
+382	Multan	Palase Hotel	20		20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Palase Hotel Multan	30.2454462	71.4821319
+383	Multan	Chansery Hotel	10		10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Chansery Hotel Multan	30.191444	71.4496062
+384	Multan	Pace IN Hotel	22		22	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Pace IN Hotel Multan	30.1939808	71.4516727
+385	Multan	City Center Sweet	16		16	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		City Center Sweet Multan	30.186975	71.4339533
+386	Multan	First Guest Hotel	22		22	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		First Guest Hotel Multan	30.1979129	71.4425304
+387	Multan	Lord Laplave Guest House	20		20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Lord Laplave Guest House Multan	30.1968161	71.4447483
+388	Multan	New Lord In	10		10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		New Lord In Multan	30.1980881	71.44434
+389	Multan	TM Guest House	11		11	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		TM Guest House Multan	30.1954466	71.4462375
+390	Multan	Exective Guest House	20		20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Exective Guest House Multan	30.1956679	71.4438413
+391	Multan	Sun Rise	18		18	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Sun Rise Multan	30.1748457	71.4051624
+392	Multan	White Palce Hotel	10		10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		White Palce Hotel Multan	30.1996004	71.4543908
+393	Multan	Hotel Best One	20		20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Hotel Best One Multan	30.195224	71.4466889
+394	Multan	King Hotel	14		14	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		King Hotel Multan	30.195383	71.4467701
+395	Multan	Kashmir Hotel	8		8	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Kashmir Hotel Multan	0	0
+396	Multan	Mehran Hotel	24		24	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Mehran Hotel Multan	30.1852757	71.4430245
+397	Multan	New Palace	8		8	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		New Palace Multan	30.1852756	71.4399944
+398	Multan	Royal Palace	18		18	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Royal Plave Multan	30.1852756	71.4399944
+399	Multan	Silver Sand	20		20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Sliver Sand Multan	30.1823584	71.4400628
+400	Multan	Multan Rest House	11		11	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Multan Rest House Multan	30.1617593	71.4718694
+401	Multan	Mangol Hotel	15		15	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Mangol Hotel Multan	30.1903839	71.4502293
+402	Multan	Multan Continental Hotel	24		24	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Multan Continental Hotel Multan	30.1979793	71.4724978
+403	Multan	Shaheen Continental	14		14	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Shaheen Continental Multan	30.1998671	71.4539606
+404	Multan	Al Fahad	11		11	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Al Fahad Multan	0	0
+405	Multan	New Star Hotel	15		15	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		New Star Hotel Multan	30.2022934	71.4487509
+406	Multan	Crown In	37		37	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Crown In Multan	30.2041214	71.4551083
+407	Multan	Dove International	12		12	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Dove International Multan	30.2109578	71.5069718
+408	Multan	Bhaul-din-Universty, BZU, Multan		2900	2900	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Bhaul-din-Universty, BZU, Multan Multan	30.2712092	71.5005633
+409	Multan	Agriculture Universty		97	97	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Agriculture Universty Multan	30.1500186	71.4360376
+410	Multan	Women Univerty (2 Campuses)		640	640	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Women Univerty (2 Campuses) Multan	30.1499997	71.3747513
+411	Multan	Nishter Medical Universty, Hostel		500	500	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Nishter Medical Universty, Hostel Multan	30.2045543	71.441855
+412	Khanewal	Commerce College Hostel Khanewal		18	36	Electricity, Water, Sui Gas, Boundry Wall, Bathroom			Commerce College Hostel Khanewal Khanewal	30.3038202	71.9377726
+413	Khanewal	Boys College Post Graduate Khanewal		9	86	Electricity, Water, Sui Gas, Boundry Wall, Bathroom			Boys College Post Graduate Khanewal Khanewal	30.2959787	71.9234491
+414	Khanewal	Girls College Hostel Khanewal		34	68	Electricity, Water, Sui Gas, Boundry Wall, Bathroom			Girls College Hostel Khanewal Khanewal	30.2959784	71.916883
+415	Khanewal	Govt. Women degree college Jahanian		18	36	Electricity, Water, Sui Gas, Boundry Wall, Bathroom			Govt. Women degree college Jahanian Khanewal	30.035212	71.8109949
+416	Khanewal	Boys College hostel Mian Channu		24	48	Electricity, Water, Sui Gas, Boundry Wall, Bathroom			Boys College hostel Mian Channu Khanewal	0	0
+417	Khanewal	RHC Kukar Hata Kabirwala		7	14	Electricity, Water, Sui Gas, Boundry Wall, Bathroom			RHC Kukar Hata Kabirwala Khanewal	30.4044732	71.7596
+418	Khanewal	RHC Sardar Pur		20	40	Electricity, Water, Sui Gas, Boundry Wall, Bathroom			RHC Sardar Pur Khanewal	30.5637966	71.7686271
+419	Khanewal	DPS Mianchannu City		94	94	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		DPS Mianchannu City Khanewal	30.4490543	72.3557474
+420	Khanewal	Khanewal Public School & College		91	91	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Khanewal Public School & College Khanewal	30.3192674	71.9268304
+421	Khanewal	Govt. Model High School for Boys		67	67	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Model High School for Boys Khanewal	30.3192662	71.9115094
+422	Khanewal	DPS Jahanian City		58	58	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		DPS Jahanian City Khanewal	30.0376454	71.8172404
+423	Khanewal	Punjab College Jahanian		56	56	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Punjab College Jahanian Khanewal	30.0252506	71.81820687
+424	Khanewal	Govt. Islamia High School		54	54	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Islamia High School Khanewal	30.2980183	71.9229895
+425	Khanewal	Govt. Girls College Khanewal		48	48	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Girls College Khanewal Khanewal	30.3012512	71.9189393
+426	Khanewal	Govt. Degree College Khanewal		40	40	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Degree College Khanewal Khanewal	30.2972278	71.922562
+427	Khanewal	Govt. Public High School		35	35	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Public High School Khanewal	0	0
+428	Khanewal	KPS Kabirwala City		35	35	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		KPS Kabirwala City Khanewal	30.3920947	71.857112
+429	Khanewal	Govt. MC High School		32	32	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. MC High School Khanewal	30.1624358	72.6846521
+430	Khanewal	Dar-e-Arqam School Jahanian		32	32	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Dar-e-Arqam School Jahanian Khanewal	30.299249	71.9213655
+431	Khanewal	Aspire College Jahanian		28	28	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Aspire College Jahanian Khanewal	0	0
+432	Khanewal	Superior College Jahanian		28	28	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Superior College Jahanian Khanewal	30.0265733	71.810457
+433	Khanewal	Govt. Degree College for Girls Jahanian		27	27	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Degree College for Girls Jahanian Khanewal	30.0265721	71.795136
+434	Khanewal	UCMS (Universty) Khanewal Kohna		26	26	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		UCMS (Universty) Khanewal Kohna Khanewal	30.3291691	71.909294
+435	Khanewal	Superior College Khanewal Boys		25	25	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Superior College Khanewal Boys Khanewal	30.3125953	71.919162
+436	Khanewal	Superior College Khanewal Girls		25	25	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Superior College Khanewal Girls Khanewal	30.3124801	71.9182691
+437	Khanewal	Govt. Boys College Hostel		24	24	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Boys College Hostel Khanewal	0	0
+438	Khanewal	Govt. Commerce College for Boys		20	20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Commerce College for Boys Khanewal	30.304426	71.9375748
+439	Khanewal	Punjab College Khanewal		20	20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Punjab College Khanewal Khanewal	30.3173486	71.9170119
+440	Khanewal	Youngs Scholar School Boys Branch Gulberg		20	20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Youngs Scholar School Boys Branch Gulberg Khanewal	30.305722	71.9417724
+441	Khanewal	Science School Civil Line Khanewal		20	20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Science School Civil Line Khanewal Khanewal	30.2990938	71.9190929
+442	Khanewal	RHS Sardarpur		20	20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		RHS Sardarpur Khanewal	30.5637966	71.7686271
+443	Khanewal	Govt. Deggree College for Boys Jahanian		20	20	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Deggree College for Boys Jahanian Khanewal	30.0324673	71.8085155
+444	Khanewal	Govt. Commerce College for Girls		18	18	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Commerce College for Girls Khanewal	0	0
+445	Khanewal	The Educator School		16	16	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		The Educator School Khanewal	30.3075398	71.9399947
+446	Khanewal	Govt. Technical College		15	15	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Technical College Khanewal	30.3021121	71.9335359
+447	Khanewal	Youngs Scholar School Girls Branch Gulberg		15	15	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Youngs Scholar School Girls Branch Gulberg Khanewal	30.3078472	71.9446934
+448	Khanewal	Islamic Aid Hospital Tulmba Road Mian		15	15	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Islamic Aid Hospital Tulmba Road Mian Khanewal	30.3907123	72.096449
+449	Khanewal	Govt. Girls Model School		14	14	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Girls Model School Khanewal	0	0
+450	Khanewal	Royal Guest House	14		14	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Royal Guest House Khanewal	30.314105	71.9502364
+451	Khanewal	Saleem Akhtar Clinic, Hadayt Ullah Road, Mian Channu		10	10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Saleem Akhtar Clinic, Hadayt Ullah Road, Mian Channu Khanewal	30.4390471	72.3499757
+452	Khanewal	Alghani Children Clinic, Shaheen Chowk, Mian Channu		10	10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Alghani Children Clinic, Shaheen Chowk, Mian Channu Khanewal	30.436226	72.3450706
+453	Khanewal	Doctors hospital Shaheen Chowk, Mian Channu		10	10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Doctors hospital Shaheen Chowk, Mian Channu Khanewal	30.4398501	72.3526562
+454	Khanewal	Specialist Hospital Nawab Colony, Mian Channu		10	10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Specialist Hospital Nawab Colony, Mian Channu Khanewal	30.4404058	72.3480129
+455	Khanewal	Ghufar General Hospital Tulamaba Road. Mian Channu		10	10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Ghufar General Hospital Tulamaba Road. Mian Channu Khanewal	30.5294126	72.2370866
+456	Khanewal	Royal Guest House, Khanewal	10		10	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Royal Guest House, Khanewal Khanewal	30.2913598	71.9309092
+457	Khanewal	Govt. Boys Degree College Khanewal		9	9	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		Govt. Boys Degree College Khanewal Khanewal	30.2959787	71.9234491
+458	Khanewal	Awas Clinic, Saddar Colony, Mian Channu		8	8	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Awas Clinic, Saddar Colony, Mian Channu Khanewal	0	0
+459	Khanewal	Shifa Medical Center, Hadayt Ullah Road, Mian Channu		8	8	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Shifa Medical Center, Hadayt Ullah Road, Mian Channu Khanewal	30.4420665	72.3547333
+460	Khanewal	Shahbaz Clinic Nishtar Road Mian Channu		8	8	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Shahbaz Clinic Nishtar Road Mian Channu Khanewal	30.4455716	72.3553066
+461	Khanewal	Umar Hospital Near Railway Gate Mian		8	8	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Umar Hospital Near Railway Gate Mian Khanewal	0	0
+462	Khanewal	Majeed Hospital Block NO. 11 Khanewal		8	8	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Majeed Hospital Block NO. 11 Khanewal Khanewal	30.2983008	71.9207149
+463	Khanewal	New Moon Hotel, Mian Channu	8		8	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		New Moon Hotel, Mian Channu Khanewal	30.299067	71.924196
+464	Khanewal	RHS Kukar Hatta		7	7	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Government		RHS Kukar Hatta Khanewal	30.404612	71.761879
+465	Khanewal	Fareha Hospital Tulamba Road Mian		7	7	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Fareha Hospital Tulamba Road Mian Khanewal	0	0
+466	Khanewal	Al-Shifa Hudi Jod Near Chowngi Korary Wali, Kabirwala		7	7	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Al-Shifa Hudi Jod Near Chowngi Korary Wali, Kabirwala Khanewal	0	0
+467	Khanewal	Javed Hotel, Khanewal	7		7	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Javed Hotel, Khanewal Khanewal	30.302768	71.922059
+468	Khanewal	Khanewal Guest House	6		6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Khanewal Guest House Khanewal	30.314262	71.952865
+469	Khanewal	Rajput Guest House	6		6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Rajput Guest House Khanewal	0	0
+470	Khanewal	Hajra Clinic, GT, Road, Mian Channu		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Hajra Clinic, GT, Road, Mian Channu Khanewal	30.437734	72.352389
+471	Khanewal	Memona Surgical Hospital, Mian Channu		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Memona Surgical Hospital, Mian Channu Khanewal	30.445498	72.339935
+472	Khanewal	Noise, Ear & Throught Clinic, Hadayt Ullah Road, Mian Channu		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Noise, Ear & Throught Clinic, Hadayt Ullah Road, Mian Channu Khanewal	30.439153	72.352188
+473	Khanewal	Gujar Clinic Agricultar Bank Chowk Mian Channu		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Gujar Clinic Agricultar Bank Chowk Mian Channu Khanewal	Satellite	0
+474	Khanewal	Mushtaq Clinic Nawab Colony Mian Chanuu		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Mushtaq Clinic Nawab Colony Mian Chanuu Khanewal	30.441908	72.349935
+475	Khanewal	Yasin Clininic Mushtaq Colony Mian Channu		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Yasin Clininic Mushtaq Colony Mian Channu Khanewal	0	0
+476	Khanewal	Amin Clinic Shami Road Mian Channu		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Amin Clinic Shami Road Mian Channu Khanewal	0	0
+477	Khanewal	Al-Qasir Medical Care Center Near, Makhdom chungi, Kabirwala		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Al-Qasir Medical Care Center Near, Makhdom chungi, Kabirwala Khanewal	0	0
+478	Khanewal	Poly Cl. Bock No. 11 Khanewal		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Poly Cl. Bock No. 11 Khanewal Khanewal	0	0
+479	Khanewal	Khanewal Guest House, Khanewal	6		6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Khanewal Guest House, Khanewal Khanewal	30.3022528	71.9278916
+480	Khanewal	Margalla Motol, Khanwal		6	6	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Margalla Motol, Khanwal Khanewal	0	0
+481	Khanewal	Hashim Hospital, Abdul Hakeem Road, Tulamba		5	5	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Hashim Hospital, Abdul Hakeem Road, Tulamba Khanewal	30.525989	72.239646
+482	Khanewal	Meraj Medical Center, Farakh Town, Mian Channu		5	5	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Meraj Medical Center, Farakh Town, Mian Channu Khanewal	30.438357	72.344892
+483	Khanewal	Shafa Poly Clinic Circular Road Mian Channu		5	5	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Shafa Poly Clinic Circular Road Mian Channu Khanewal	0	0
+484	Khanewal	Abdulla Medical Center Near THQ Hospital Kabirwala		5	5	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Abdulla Medical Center Near THQ Hospital Kabirwala Khanewal	30.402139	71.856773
+485	Khanewal	Ali Muhammad Clinic Multan Road, Kabirwala		5	5	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Ali Muhammad Clinic Multan Road, Kabirwala Khanewal	0	0
+486	Khanewal	Children Hospital Multan Road Near THQ Kabirwala		5	5	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Children Hospital Multan Road Near THQ Kabirwala Khanewal	0	0
+487	Khanewal	Al-Rafi Hospital Near Habib Bank Khanewal Road, Kabirwala		5	5	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Al-Rafi Hospital Near Habib Bank Khanewal Road, Kabirwala Khanewal	30.401053	71.867576
+488	Khanewal	Al-Noor Hospital Block No. 15 Khanewal		5	5	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Al-Noor Hospital Block No. 15 Khanewal Khanewal	71.867576	71.867576
+489	Khanewal	Rafi Hospital Girls College Road Khanewal		5	5	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Rafi Hospital Girls College Road Khanewal Khanewal	30.296977	71.923816
+490	Khanewal	City Gate Hotel, Khanewal	4		4	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		City Gate Hotel, Khanewal Khanewal	30.3176326	71.9606249
+491	Khanewal	Bakhtawar Hotel, Kabirwala	3		3	Electricity, Water, Sui Gas, Boundry Wall, Bathroom	Private		Bakhtawar Hotel, Kabirwala Khanewal	30.401266	71.863331
+492	Lodhran	GHS Haveeli Naseer Khan		10	50	Electricity, Bathroom, Water Supply, Food			GHS Haveeli Naseer Khan Lodhran	29.53235	71.75451
+493	Lodhran	Govt Boys School Adam Wahan		12	50	Electricity, Bathroom, Water Supply, Food			Govt Boys School Adam Wahan Lodhran	29.54751	71.636168
+494	Lodhran	GHS Danwaran		15	50	Electricity, Bathroom, Water Supply, Food			GHS Danwaran Lodhran	29.571722	71.67565
+495	Lodhran	GHS Chak himta		19	60	Electricity, Bathroom, Water Supply, Food			GHS Chak himta Lodhran	29.6384935	71.5906615
+496	Lodhran	GHS Fazl Wala		13	50	Electricity, Bathroom, Water Supply, Food			GHS Fazl Wala Lodhran		
+497	Lodhran	GHS Wahi Ali Arain		17	70	Electricity, Bathroom, Water Supply, Food			GHS Wahi Ali Arain Lodhran	29.564398	71.454901
+498	Lodhran	GHS Qureshi Wala		13	50	Electricity, Bathroom, Water Supply, Food			GHS Qureshi Wala Lodhran	29.465457	71.437305
+499	Lodhran	GHS Chamb Kulyar		12	50	Electricity, Bathroom, Water Supply, Food			GHS Chamb Kulyar Lodhran	29.435017	71.560689
+500	Lodhran	GHS Salsaddar		13	50	Electricity, Bathroom, Water Supply, Food			GHS Salsaddar Lodhran	0	0
+501	Lodhran	GHS Jhanbi Wahin		7	30	Electricity, Bathroom, Water Supply, Food			GHS Jhanbi Wahin Lodhran	0	0
+502	Lodhran	GHS Qadir Pur Chimna		15	50	Electricity, Bathroom, Water Supply, Food			GHS Qadir Pur Chimna Lodhran	29.612751	72.085672
+503	Lodhran	GHS Bahawal Garh		27	70	Electricity, Bathroom, Water Supply, Food			GHS Bahawal Garh Lodhran	29.57112	71.909678
+504	Lodhran	GES Basti Seeker		8	35	Electricity, Bathroom, Water Supply, Food			GES Basti Seeker Lodhran	29.626403	71.910149
+505	Lodhran	GGHS Rind Jada		9	40	Electricity, Bathroom, Water Supply, Food			GGHS Rind Jada Lodhran	29.689541	71.913218
+506	Lodhran	GHSS Rind Jada		8	35	Electricity, Bathroom, Water Supply, Food			GHSS Rind Jada Lodhran	29.687005	71.918153
+507	Lodhran	GHS Nathay Wala		19	60	Electricity, Bathroom, Water Supply, Food			GHS Nathay Wala Lodhran	29.671919	71.964935
+508	Lodhran	GHS Noqabil Wah		14	50	Electricity, Bathroom, Water Supply, Food			GHS Noqabil Wah Lodhran	0	0
+509	Lodhran	GHS Jalla Arayin		31	80	Electricity, Bathroom, Water Supply, Food			GHS Jalla Arayin Lodhran	29.745503	71.603847
+510	Lodhran	GHS Qutab Pur		27	75	Electricity, Bathroom, Water Supply, Food			GHS Qutab Pur Lodhran	29.903828	71.757704
+511	Lodhran	GHS 35M		18	60	Electricity, Bathroom, Water Supply, Food			GHS 35M Lodhran	0	0
+512	Lodhran	GHS 237 WB		11	35	Electricity, Bathroom, Water Supply, Food			GHS 237 WB Lodhran	29.787217	71.904412
+513	Lodhran	GHSS Makhdoom Wali		33	80	Electricity, Bathroom, Water Supply, Food			GHSS Makhdoom Wali Lodhran	29.78993	71.556448
+514	Lodhran	GGHS Dunyapur		28	80	Electricity, Bathroom, Water Supply, Food			GGHS Dunyapur Lodhran	29.801163	71.738786
+515	Lodhran	GHS Dunyapur		28	80	Electricity, Bathroom, Water Supply, Food			GHS Dunyapur Lodhran	29.795509	71.741811
+516	Lodhran	Shahida Islam Medical & Dental College		1100	1100	Electricity, Bathroom, Water Supply, Food			Shahida Islam Medical & Dental College Lodhran	29.489088	71.641811
+517	Lodhran	Nasu Laeaska Hotel	8		8				Nasu Laeaska Hotel Lodhran	29.548142	71.650914
+518	Vehari	Govt.Post Graduate College of Woman Vehari		40	40	Electricity, Bathroom, Water, Boundry Wall	Government		Govt.Post Graduate College of Woman Vehari Vehari	30.039061	72.365632
+519	Vehari	Govt.Post Graduate College Burewala		30	30	Electricity, Bathroom, Water, Boundry Wall	Government		Govt.Post Graduate College Burewala Vehari	30.162132	72.67963
+520	Vehari	Din Hospital Burewala,		25	25	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Din Hospital Burewala, Vehari	30.169747	72.684223
+521	Vehari	University of Education		20	20	Electricity, Water Supply, Sui Gas, Boundry Wall	Government		University of Education Vehari	30.039905	72.367111
+522	Vehari	Govt.Post Graduate College of Woman Mailsi		20	20	Electricity, Bathroom, Water Supply, Boundry Wall	Government		Govt.Post Graduate College of Woman Mailsi Vehari	29.801128	72.18434
+523	Vehari	Govt.Degree College Woman Burewala		20	20	Electricity, Bathroom, Water Supply, Boundry Wall	Government		Govt.Degree College Woman Burewala Vehari	30.165409	72.686636
+524	Vehari	Govt.Degree College Woman Sheikh Fazal		20	20	Electricity, Bathroom, Water Supply, Boundry Wall	Government		Govt.Degree College Woman Sheikh Fazal Vehari	30.038769	72.364807
+525	Vehari	Govt.Degree College Mailsi		20	20	Electricity, Bathroom, Water Supply, Boundry Wall	Government		Govt.Degree College Mailsi Vehari	29.806199	72.163
+526	Vehari	Girls Hostel Vehari		17	17	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Girls Hostel Vehari Vehari	0	0
+527	Vehari	City Top Hotel Vehari	15		15	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		City Top Hotel Vehari Vehari	30.043525	72.35677
+528	Vehari	Sky View Hotel Vehari	14		14	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Sky View Hotel Vehari Vehari	30.046159	72.358074
+529	Vehari	Rafique Boys hostel		14	14	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Rafique Boys hostel Vehari	0	0
+530	Vehari	Al shafi Boys Hostel		14	14	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Al shafi Boys Hostel Vehari	0	0
+531	Vehari	Govt.Post Graduate College Vehari		14	14	Electricity, Bathroom, Water Supply, Boundry Wall	Government		Govt.Post Graduate College Vehari Vehari	30.045488	72.349226
+532	Vehari	Usman Medical Hospital Mailsi,		10	10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Usman Medical Hospital Mailsi, Vehari	29.802416	72.179812
+533	Vehari	Maryam Hospital Mailsi		10	10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Maryam Hospital Mailsi Vehari	29.806668	72.180661
+534	Vehari	Hanif Surgical Hospital Vehari,		10	10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Hanif Surgical Hospital Vehari, Vehari	29.899515	72.585383
+535	Vehari	Dhiloo Surgical Hospital Burewala		10	10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Dhiloo Surgical Hospital Burewala, Vehari	30.159252	72.667583
+536	Vehari	Yasin Hospital Gaggo		10	10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Yasin Hospital Gaggo Vehari	30.221712	72.822729
+537	Vehari	Ghani Hospital Burewala		10	10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Ghani Hospital Burewala Vehari	30.159542	72.694931
+538	Vehari	Bilal Surgical Hospital Burewala		10	10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Bilal Surgical Hospital Burewala Vehari	30.221879	72.839715
+539	Vehari	Sareen Hotel Vehari	10		10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Sareen Hotel Vehari Vehari	0	0
+540	Vehari	Flame and Cool Burewala		10	10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Flame and Cool Burewala Vehari	30.15907	72.676527
+541	Vehari	5 Star Hotel Vehari	10		10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		5 Star Hotel Vehari Vehari	30.061383	72.36179
+542	Vehari	Oriental Hotel Vehari	10		10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Oriental Hotel Vehari Vehari	0	0
+543	Vehari	Maddni HotelVehari	10		10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Maddni HotelVehari Vehari	30.040331	72.334734
+544	Vehari	Marhaba Hotel and Resturent Mailsi	10		10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Marhaba Hotel and Resturent Mailsi Vehari	29.80346	72.176537
+545	Vehari	Fatima tu Zuhra FemalHostel		10	10	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Fatima tu Zuhra FemalHostel Vehari		
+546	Vehari	Dr Jind Wadda Hospital Mailsi		9	9	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Dr Jind Wadda Hospital Mailsi Vehari	29.805086	72.179955
+547	Vehari	Zainab Hospital Vehari,		8	8	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Zainab Hospital Vehari, Vehari	30.046585	72.359055
+548	Vehari	Rasheed Memoriyal Hospital Vehari		8	8	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Rasheed Memoriyal Hospital Vehari Vehari	30.042958	72.372542
+549	Vehari	Al- Shifa Hospital Vehari,		8	8	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Al- Shifa Hospital Vehari, Vehari	30.044439	72.353042
+550	Vehari	Hijazi Hospital Vehari,		8	8	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Hijazi Hospital Vehari, Vehari	0	0
+551	Vehari	Fatima Hospital Vehari		8	8	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Fatima Hospital Vehari Vehari	30.04469	72.360353
+552	Vehari	National Hospital Vehari		7	7	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		National Hospital Vehari Vehari	30.039931	72.346314
+553	Vehari	Aeman Surgical Hospital Burewala,		7	7	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Aeman Surgical Hospital Burewala, Vehari	0	0
+554	Vehari	Working Woman Hostel		7	7	Electricity, Water Supply, Sui Gas, Boundry Wall	Government		Working Woman Hostel Vehari	0	0
+555	Vehari	Foji Boys Hostel		7	7	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Foji Boys Hostel Vehari	30.035373	72.313809
+556	Vehari	Surya Hospital Mailsi,		6	6	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Surya Hospital Mailsi, Vehari	29.802859	72.182039
+557	Vehari	Gulzar Hospital Vehari,		6	6	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Gulzar Hospital Vehari, Vehari	30.037891	72.347291
+558	Vehari	Imran Hostel Male Vehari		6	6	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Imran Hostel Male Vehari Vehari	0	0
+559	Vehari	Global Male Hostel		6	6	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Global Male Hostel Vehari	30.03277	72.310228
+560	Vehari	Burewala Girls Hostel		6	6	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Burewala Girls Hostel Vehari	0	0
+561	Vehari	Ayan Hospital Mailsi,		5	5	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Ayan Hospital Mailsi, Vehari	29.804521	72.179094
+562	Vehari	Sughra Shafi Hospital Vehari,		5	5	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Sughra Shafi Hospital Vehari, Vehari	32.116712	74.853034
+563	Vehari	Al-Amin Hospital Burewala,		5	5	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Al-Amin Hospital Burewala, Vehari	30.15144	72.678188
+564	Vehari	Shahid Hospital Burewala,		5	5	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Shahid Hospital Burewala, Vehari	30.160262	72.68705
+565	Vehari	Shafi Hospital Burewala,		5	5	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Shafi Hospital Burewala, Vehari	30.160126	72.678207
+566	Vehari	Saleem Boys Hostel		5	5	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		Saleem Boys Hostel Vehari	0	0
+567	Vehari	CHaudary Javed Femal Hostel		5	5	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		CHaudary Javed Femal Hostel Vehari	0	0
+568	Vehari	City Hospital Vehari,		3	3	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		City Hospital Vehari, Vehari	30.042588	72.340038
+569	Vehari	City Girls Hotel		3	3	Electricity, Water Supply, Sui Gas, Boundry Wall	Private		City Girls Hotel Vehari	0	0
+570	Vehari	Khursheed Anwar Stadium, Vehari		6	50	Electricity, backup power supply, Water, Drinking water, sewerage system			Khursheed Anwar Stadium, Vehari Vehari	30.044876	72.342104
+571	Vehari	Tehsil Council Rest House Mailsi	7		30	Electricity, backup power supply, Water, Drinking water, sewerage system			Tehsil Council Rest House Mailsi Vehari		0
+572	Vehari	Boys Degree College Burewala Hostel		60	120	Electricity, Water, Drinking water, sewerage system			Boys Degree College Burewala Hostel Vehari	30.1635065	72.6771549
+573	Vehari	Govt. Technology College 507/EB Burewala		32	60	Electricity, Water, Drinking water, sewerage system			Govt. Technology College 507/EB Burewala Vehari	30.1624683	72.679065
+574	Vehari	University of Agriculture Faisalabad sub campus Burewala		35	100	Electricity, Water, Drinking water			University of Agriculture Faisalabad sub campus Burewala Vehari	30.2275103	72.7219684
+575	Vehari	Hostel, Govt. Danish School Mailsi		104	624	Electricity, backup power supply, Water, Drinking water, sewerage system			Hostel, Govt. Danish School Mailsi Vehari	29.9589963	71.8516476
+576	Total		1013	8827	12859					0	0
+577	Rawalpindi	UET, Taxila		785	785	Electricity, Drinking Water, Bed, Common Washrooms etc.			UET, Taxila Rawalpindi	33.7662309	72.8262806
+578	Rawalpindi	Fatima Jinnah Women University		220	250	Electricity and Drinking Water etc.			Fatima Jinnah Women University Rawalpindi	33.5868402	73.06379435
+579	Rawalpindi	ARID Agriculture University Hostel		210	240	Electricity and Drinking Water etc.			ARID Agriculture University Hostel Rawalpindi	33.6480202	73.0859088
+580	Rawalpindi	Faran Hotel Murree	115		130	Electricity and Drinking Water etc.			Faran Hotel Murree Rawalpindi	33.9085332	73.3946794
+581	Rawalpindi	Arid Agriculture University, Iqbal Hall		100	100	Electricity, Bedding, Washroom, Water, Towel, Soap, Paste and Tooth Brush etc.			Arid Agriculture University, Iqbal Hall Rawalpindi	33.6476705	73.0749088
+582	Rawalpindi	Anjuman Faizul Islam New Campus Mandra Tehsil Gujar Khan		100	100	Electricity and Drinking Water etc.			Anjuman Faizul Islam New Campus Mandra Tehsil Gujar Khan Rawalpindi	33.6616773	73.0851485
+583	Rawalpindi	Gordon College, Rawalpindi		90	90	Electricity, Water,  and Washroom etc			Gordon College, Rawalpindi Rawalpindi	33.6090603	73.062063
+584	Rawalpindi	Rawalpindi Women University Satellite Town Rawalpindi		80	100	Electricity and Drinking Water etc.			Rawalpindi Women University Satellite Town Rawalpindi Rawalpindi	33.6437864	73.0680261
+585	Rawalpindi	Move and Pick Hall Road Murree	80		100	Electricity and Drinking Water etc.			Move and Pick Hall Road Murree Rawalpindi	33.9071454	73.3947961
+586	Rawalpindi	Java International Hotel Murree	75		80	Electricity and Drinking Water etc.			Java International Hotel Murree Rawalpindi	33.9066827	73.3934429
+587	Rawalpindi	Mehran Hotel Motor Agency Murree	65		70	Electricity and Drinking Water etc.			Mehran Hotel Motor Agency Murree Rawalpindi	0	0
+588	Rawalpindi	Convent of Jesus and Merry School Pindi Point Murree		60	100	Electricity and Drinking Water etc.			Convent of Jesus and Merry School Pindi Point Murree Rawalpindi	33.8916953	73.3772892
+589	Rawalpindi	Murree Village Flats Expressway Murree		60	120	Electricity and Drinking Water etc.			Murree Village Flats Expressway Murree Rawalpindi	0	0
+590	Rawalpindi	Alhamra Sirozgali, GPO Murree		55	60	Electricity and Drinking Water etc.			Alhamra Sirozgali, GPO Murree Rawalpindi	33.9070111	73.3944795
+591	Rawalpindi	Punjab College Gujar Khan		54	60	Electricity and Drinking Water etc.			Punjab College Gujar Khan Rawalpindi	33.2543205	73.3065712
+592	Rawalpindi	Punjab College, Gujar Khan		50	50	Electricity, Water, Washroom, Bedding Towel, Soap, Paste and Tooth Brush etc			Punjab College, Gujar Khan Rawalpindi	33.2543205	73.3065712
+593	Rawalpindi	Bahria Hostel, Bahria Town Phase-8		50	50	Electricity and Drinking Water etc.			Bahria Hostel, Bahria Town Phase-8 Rawalpindi	0	0
+594	Rawalpindi	Govt. Postgraduate College Asghar Mall Rawalpindi		46	50	Electricity and Drinking Water etc.			Govt. Postgraduate College Asghar Mall Rawalpindi Rawalpindi	33.6283962	73.0581404
+595	Rawalpindi	GTC TEVTA, Taxila		44	44	Electricity, Water, Washroom, Bedding Towel, Soap, Paste and Tooth Brush etc			GTC TEVTA, Taxila Rawalpindi	33.7888997	72.8179233
+596	Rawalpindi	Lalazar Hotel near GPO Chowk Murree	34		50	Electricity and Drinking Water etc.			Lalazar Hotel near GPO Chowk Murree Rawalpindi	33.9064055	73.3948742
+597	Rawalpindi	Anjuman e Faiz ul Islam Doberan Kalan Campus Tehsil Kallar Syedan		31	31	Electricity and Drinking Water etc.			Anjuman e Faiz ul Islam Doberan Kalan Campus Tehsil Kallar Syedan Rawalpindi	33.448815	73.50392
+598	Rawalpindi	Govt.Postgraduate College Satellite Town Rawalpindi		28	30	Electricity and Drinking Water etc.			Govt.Postgraduate College Satellite Town Rawalpindi Rawalpindi	33.6416718	73.0643905
+599	Rawalpindi	Govt. Viqar Un Nisa Postgraduate College (W) Rawalpindi		25	30	Electricity and Drinking Water etc.			Govt. Viqar Un Nisa Postgraduate College (W) Rawalpindi Rawalpindi	33.6034827	73.0758638
+600	Rawalpindi	Forest Academy Murree		25	30	Electricity and Drinking Water etc.			Forest Academy Murree Rawalpindi	0	0
+601	Rawalpindi	TEVTA College Muurree		25	30	Electricity and Drinking Water etc.			TEVTA College Muurree Rawalpindi	33.9141674	73.3938901
+602	Rawalpindi	White House Chitta Morh Murree		24	30	Electricity and Drinking Water etc.			White House Chitta Morh Murree Rawalpindi	33.9122418	73.3839951
+603	Attock	Tevta College Fateh Jang Road Attock		64	160	Drinking Water, Bedding and Boundary Wall etc	Hall		Tevta College Fateh Jang Road Attock Attock	33.5700533	72.6382935
+604	Attock	Wapda Office Fateh Jang Road Attock City		12	24	-do-			Wapda Office Fateh Jang Road Attock City Attock	33.7564309	72.3622778
+605	Attock	Madrasa Prachgan, Hinjra, Jand		120	200	-do-			Madrasa Prachgan, Hinjra, Jand Attock	0	0
+606	Attock	Tameer-e-Millat School Ratwal Fatehjang		85	85	-do-			Tameer-e-Millat School Ratwal Fatehjang Attock	33.5957372	72.7094555
+607	Attock	Cadet College Hassan Abdal		192	240	-do-			Cadet College Hassan Abdal Attock	33.8201537	72.678946
+608	Attock	Danish School, Jand		52	52	-do-			Danish School, Jand Attock	33.4304628	72.0137236
+609	Attock	Govt. College for Boys Attock		57	57	-do-			Govt. College for Boys Attock Attock	33.7713737	72.3599718
+610	Attock	Govt. College for Women Attock.		55	55	-do-			Govt. College for Women Attock. Attock	33.7686288	72.3616725
+611	Chakwal	Cadet College, Choa Saiden Shah		159	288	Electricity, Drinking Water and Washroom etc			Cadet College, Choa Saiden Shah Chakwal	32.7244099	72.9656638
+612	Chakwal	Cadet College Murree		125	257	Electricity, Drinking Water and Washroom etc			Cadet College Murred Chakwal	33.9152762	73.405587
+613	Chakwal	Kallar Kahar Science College for Boys		118	118	Electricity, Drinking Water and Washroom etc			Kallar Kahar Science College for Boys Chakwal	32.7875117	72.6811851
+614	Chakwal	Kallar Kahar Science College for Girls		72	72	Electricity, Drinking Water and Washroom etc			Kallar Kahar Science College for Girls Chakwal	32.7898524	72.6848197
+615	Chakwal	Punjab School of Mines, CSS.		72	175	Electricity, Drinking Water and Washroom etc			Punjab School of Mines, CSS. Chakwal	32.7266289	72.9545095
+616	Jhelum	Govt. Post Graduate College, Tahlianwala Jhelum		33	60	Electricity, Drinking Water, Washroom  and Beds etc			Govt. Post Graduate College, Tahlianwala Jhelum Jhelum	32.9594636	73.7463384
+617	Jhelum	Govt. Post Graduate College for Women Jhelum		24	32	-do-			Govt. Post Graduate College for Women Jhelum Jhelum	32.9431822	73.736942
+618	Jhelum	Govt. Special Education Institute Sohawa		21	50	-do-			Govt. Special Education Institute Sohawa Jhelum	33.1601471	73.3886804
+619	Jhelum	Govt. Technical College Jhelum		56	84	Electricity, Drinking Water, Washroom and Beds etc			Govt. Technical College Jhelum Jhelum	32.9262283	73.7303025
+620	Jhelum	Cadet College Jhelum		81	120	-do-			Cadet College Jhelum Jhelum	33.0135232	73.653679
+621	Jhelum	Punjab University Campus Jhelum		47	100	-do-	reserved for Zaireen of Zahiden		Punjab University Campus Jhelum Jhelum	33.0033348	73.6645072
+622	Jhelum	Govt. College for Women P.D Khan		16	34	-do-			Govt. College for Women P.D Khan Jhelum	32.5842554	73.0476847
+623	Jhelum	Govt. Special Education Institute PD Khan		26	72	-do-			Govt. Special Education Institute PD Khan Jhelum	0	0
+624	Total		369	3649	5145					0	0
+625	Sahiwal	Govt Post Graduate College Boys College Govt Post Graduate College for women Government Sahiwal University Sahiwal Sahiwal Medical College Sahiwa		322	1128	Water Supply, Sewerage system,(Washrooms) Electricity, mess, are available and functional	DO		Govt Post Graduate College Boys College Govt Post Graduate College for women Government Sahiwal University Sahiwal Sahiwal Medical College Sahiwa Sahiwal	30.6744731	73.0931128
+626	Okara	RHC Shergarh		28	71	Electricity, Back up Power, Sewerage, Water Supply, Drinking Water Availability, Meals, Security	Funtional		RHC Shergarh Okara	34.3934026	71.8940763
+627	Okara	Government Degree College for Gogera		30	50	Same as above	Funtional		Government Degree College for Gogera Okara	30.9617439	73.3327735
+628	Okara	Government Women College, Basirpur		26	50	Same as above	Funtional		Government Women College, Basirpur Okara	30.5794681	73.8306254
+629	Okara	Cadet College		131	500	Same as above	Funtional		Cadet College Okara	30.8679442	73.4325311
+630	Okara	Agriculture University		52	500	Same as above	Funtional		Agriculture University Okara	30.8508396	73.5326702
+631	Okara	University of Okara		68	1500	Same as above	Funtional		University of Okara Okara	30.8684089	73.5678927
+632	Okara	Govt. Degree college for boys		24	50	Same as above	Funtional		Govt. Degree college for boys Okara	30.8139396	73.4453506
+633	Okara	Govt. Girls Degree College		16	50	Same as above	Funtional		Govt. Girls Degree College Okara	30.7950736	73.4523092
+634	Okara	Nursing Hostel		37	74	Same as above	Funtional		Nursing Hostel Okara	0	0
+635	Okara	Working Women Hostel, Okara		10	10	Same as above	Funtional		Working Women Hostel, Okara Okara	0	0
+636	Okara	Govt Degree College for South City, Okara		24	50	Same as above	Funtional		Govt Degree College for South City, Okara Okara	30.7950782	73.4523702
+637	Okara	Government Women College, Depalpur		21	100	Same as above	Funtional		Government Women College, Depalpur Okara	30.6699713	73.6547798
+638	Okara	Government Boys College, Basirpur		16	50	Same as above	Funtional		Government Boys College, Basirpur Okara	30.6604671	73.6634843
+639	Okara	Government Boys College, Haveli Lakha		16	50	Same as above	Funtional		Government Boys College, Haveli Lakha Okara	30.4672237	73.7058817
+640	Okara	Government Girls College, Haveli Lakha		20	50	Same as above	Funtional		Government Girls College, Haveli Lakha Okara	30.4477608	73.7015995
+641	Okara	Government Girls College, Hujra Shah Muqeem		26	50	Same as above	Funtional		Government Girls College, Hujra Shah Muqeem Okara	0	0
+642	Okara	Government Postgraduate College for Boys, Okara		50	50	Same as above	Funtional		Government Postgraduate College for Boys, Okara Okara	30.8136736	73.4465898
+643	Okara	Government Postgraduate College for Women, Okara		38	38	Same as above	Funtional		Government Postgraduate College for Women, Okara Okara	30.8136736	73.4465898
+644	Okara	Government Commerce College, Okara		11	50	Same as above	Funtional		Government Commerce College, Okara Okara	30.8175297	73.4632474
+645	Okara	Government Boys College Depalpur		14	50	Same as above	Funtional		Government Boys College Depalpur Okara	30.6706804	73.6419517
+646	Pakpattan	Hostel Govt. Girls College Pakpattan		20	20	Wash Rooms, Electricity, Backup Power, Sewerage System, Water and Boundy Wall are available. Portable wash rooms would be required.			Hostel Govt. Girls College Pakpattan Pakpattan	0	0
+647	Pakpattan	Academic Block Girls College Pakpattan		6	6	DO			Academic Block Girls College Pakpattan Pakpattan	30.3370808	73.3897079
+648	Pakpattan	Al-Badar School Pakpattan		30	30	DO			Al-Badar School Pakpattan Pakpattan	30.35066	73.3822934
+649	Pakpattan	Cambridge College for Boys Pakpattan		8	8	DO			Cambridge College for Boys Pakpattan Pakpattan	30.3506496	73.3761445
+650	Pakpattan	Government High School Sahiwal Road, Pakpattan		15	15	DO			Government High School Sahiwal Road, Pakpattan Pakpattan	30.354265	73.373714
+651	Pakpattan	Government City Girls High School Pakpattan		20	20	DO			Government City Girls High School Pakpattan Pakpattan	30.3370536	73.389992
+652	Pakpattan	University of Lahore, Baba Farid Campus, Sahiwal Road, Pakpattan		14	14	DO			University of Lahore, Baba Farid Campus, Sahiwal Road, Pakpattan Pakpattan	0	0
+653	Pakpattan	District Public School (DPS), Hotta Road Pakpattan		17	40	DO			District Public School (DPS), Hotta Road Pakpattan Pakpattan	30.3138813	73.3576029
+654	Pakpattan	Govt. College of Commerce Hotta Road Pakpattan		17	40	DO			Govt. College of Commerce Hotta Road Pakpattan Pakpattan	30.2942337	73.3253008
+655	Pakpattan	Dare-Arqum School, Pakpattan		40	40	DO			Dare-Arqum School, Pakpattan Pakpattan	30.2772237	73.0668606
+656	Pakpattan	Oxford College, Pakpattan		20	20	DO			Oxford College, Pakpattan Pakpattan	30.3599677	73.3849479
+657	Pakpattan	Royal Gardan Morque, Depalpur Road Pakpattan	3		75	DO	1 Hall 2 Rooms		Royal Gardan Morque, Depalpur Road Pakpattan Pakpattan	30.3663283	73.3744068
+658	Pakpattan	THQ Hospital Arifwala		9	9	DO			THQ Hospital Arifwala Pakpattan	30.2843374	73.0722034
+659	Pakpattan	Hostel Govt. Girls College, Arifwala		17	17	DO			Hostel Govt. Girls College, Arifwala Pakpattan	0	0
+660	Pakpattan	Academic Block Govt. Girls College, Arifwala		17	17	DO			Academic Block Govt. Girls College, Arifwala Pakpattan	30.3370808	73.3897079
+661	Pakpattan	Govt. College for Boys (Academic Block), Arifwala		33	33	DO			Govt. College for Boys (Academic Block), Arifwala Pakpattan	30.2823066	73.0735413
+662	Pakpattan	Allied School, Qaboola Road, Arifwala		37	37	DO			Allied School, Qaboola Road, Arifwala Pakpattan	30.277498	73.0675434
+663	Pakpattan	Aspire College Arifwala		15	15	DO			Aspire College Arifwala Pakpattan	30.2850281	73.0677644
+664	Pakpattan	Misali Zakria Public School/ College, Arifwala		25	25	DO			Misali Zakria Public School/ College, Arifwala Pakpattan	30.2961612	73.0686445
+665	Pakpattan	Superior College, Sahiwal Road, Arifwala		18	18	DO			Superior College, Sahiwal Road, Arifwala Pakpattan	30.3020701	73.0454276
+666	Pakpattan	DPS Arifwala		10	10	DO			DPS Arifwala Pakpattan	30.292539	73.0754436
+667	Pakpattan	Punjab College-1, Qaboola Road, Arifwala		25	25	DO			Punjab College-1, Qaboola Road, Arifwala Pakpattan	30.2585495	73.058298
+668	Pakpattan	Punjab College-2, Qaboola Road, Arifwala		16	16	DO			Punjab College-2, Qaboola Road, Arifwala Pakpattan	30.2585495	73.058298
+669	Pakpattan	Lahore Grammar School, Qaboola Road, Arifwala		26	26	DO			Lahore Grammar School, Qaboola Road, Arifwala Pakpattan	30.2726425	73.0655366
+670	Pakpattan	New Beacon House School, Qaboola Road, Arifwala		24	24	DO			New Beacon House School, Qaboola Road, Arifwala Pakpattan	30.274903	73.0665578
+671	Pakpattan	Government Boys MC High School Arifwala		11	11	DO			Government Boys MC High School Arifwala Pakpattan	30.2889032	73.0725043
+672	Pakpattan	Government Girls MC High School Arifwala		25	25	DO			Government Girls MC High School Arifwala Pakpattan	30.2877081	73.0676019
+673	Pakpattan	Government High School M-Block Arifwala		31	31	DO			Government High School M-Block Arifwala Pakpattan	0	0
+674	Pakpattan	Govt. High School Kot Khuda Bakhsh Arifwala		27	27	DO			Govt. High School Kot Khuda Bakhsh Arifwala Pakpattan	30.2032087	73.0625907
+675	Pakpattan	Govt. Higher Secondary School Qaboola		22	22	DO			Govt. Higher Secondary School Qaboola Pakpattan	30.1838432	73.071059
+676	Pakpattan	Ahmad Medical Complex Arifwala		5	5	DO			Ahmad Medical Complex Arifwala Pakpattan	30.2847556	73.0732131
+677	Pakpattan	NDS Arifwala		15	15	DO			NDS Arifwala Pakpattan	30.2963144	73.0677025
+678	Pakpattan	11-Private Hospitals in Arifwala		79	79	DO			11-Private Hospitals in Arifwala Pakpattan	0	0
+679	Total		3	1674	5336					0	0
+680	Sargodha	College of Agriculture situated at Chak 38/NB Ludday wala bypass Sargodha 06 KM far from main Town (Sargodha)		114	450	Boundary wall, sewerage, water supply, electricity, drinking water are available. 24 washrooms, Sui gas not available	Under process		College of Agriculture situated at Chak 38/NB Ludday wala bypass Sargodha 06 KM far from main Town (Sargodha) Sargodha	32.1335426	72.6857435
+681	Sargodha	Sargodha Medical College (03) Hostels 10 KM far from main town (Sargodha)		363	876	Boundary wall, sewerage, water supply, electricity, drinking water, 136 washrooms, are available. Sui gas not available	Under process		Sargodha Medical College (03) Hostels 10 KM far from main town (Sargodha) Sargodha	32.0037701	72.7230985
+682	Bhakkar	Hostel of Govt. Post Graduate College for Boys, Bhakkar		34	82	Boundary wall, sewerage, water supply, electricity, drinking water, 40 beds completed in all respect i.e. pillow, blanket, matress etc.	Established		Hostel of Govt. Post Graduate College for Boys, Bhakkar Bhakkar	31.6288228	71.0747753
+683	Bhakkar	Hostel of Government College For Women, Bhakkar		20	40	DO	Proposed		Hostel of Government College For Women, Bhakkar Bhakkar	31.6230045	71.079323
+684	Bhakkar	Hotel Shehzad, City Bhakkar		22	64	DO	Proposed		Hotel Shehzad, City Bhakkar Bhakkar	31.6244828	71.0779449
+685	Bhakkar	University of Sargodha, Bhakkar Campus		50	150	DO	Proposed		University of Sargodha, Bhakkar Campus Bhakkar	0	
+686	Bhakkar	Govt College of Technology City Bhakkar		15	59	DO	Proposed		Govt College of Technology City Bhakkar Bhakkar	31.6165041	71.0887092
+687	Bhakkar	Hotel Sawan, Dullewala Road, Darya Khan	12		24	DO			Hotel Sawan, Dullewala Road, Darya Khan Bhakkar	31.788695	71.1151303
+688	Khushab	Govt. residences of Health Deptt 35 KM far from main town (Khushab)		14	50	Boundary wall, sewerage, water supply, electricity, drinking water are available. 09 washrooms, Sui gas not available	Under process		Govt. residences of Health Deptt 35 KM far from main town (Khushab) Khushab	0	0
+689	Khushab	Punjab college 03 KM from main Town. Double Story building		8	50	Boundary wall, sewerage, water supply, electricity, drinking water are available. 12 washrooms, Sui gas not available	Under process		Punjab college 03 KM from main Town. Double Story building Khushab	32.3011085	72.3534193
+690	Mianwali	Danish School Boys Campus Hernoli		30	240	Light, Water, Washrooms, Boundary Wall Backup power availability	sufficient facilities to accommodate		Danish School Boys Campus Hernoli Mianwali	32.2992668	71.5288568
+691	Mianwali	Royal Inn Hotel	50		50	Light, Water, Washrooms, Boundary Wall Backup power availability	sufficient facilities to accommodate		Royal Inn Hotel Mianwali	32.5773281	71.5424604
+692	Mianwali	Shehzad Hotel	25		25	Light, Water, Washrooms, Boundary Wall Backup power availability	sufficient facilities to accommodate		Shehzad Hotel Mianwali	32.5787381	71.5482155
+693	Mianwali	Al-Miraj Hotel	15		15	Light, Water, Washrooms, Boundary Wall Backup power availability	sufficient facilities to accommodate		Al-Miraj Hotel Mianwali	32.5763076	71.5436139
+694	Total		102	670	2175					0	0
+695	Grand Total		8636	27994	66985					0	0
